@@ -1,0 +1,1002 @@
+name,id
+Amount of Farm Inventory: Winter Wheat for Grain,AmountFarmInventory_WinterWheatForGrain
+Amount of Farm Inventory: Barley for Grain,Amount_FarmInventory_BarleyForGrain
+Amount of Farm Inventory: Corn for Silage or Greenchop,Amount_FarmInventory_CornForSilageOrGreenchop
+Amount of Farm Inventory: Cotton,Amount_FarmInventory_Cotton
+Amount of Farm Inventory: Dry Edible Beans,Amount_FarmInventory_DryEdibleBeans
+Amount of Farm Inventory: Durum Wheat for Grain,Amount_FarmInventory_DurumWheatForGrain
+Amount of Farm Inventory: Forage,Amount_FarmInventory_Forage
+Amount of Farm Inventory: Oats for Grain,Amount_FarmInventory_OatsForGrain
+Amount of Farm Inventory: Other Spring Wheat for Grain,Amount_FarmInventory_OtherSpringWheatForGrain
+Amount of Farm Inventory: Peanuts for Nuts,Amount_FarmInventory_PeanutsForNuts
+Amount of Farm Inventory: Pima Cotton,Amount_FarmInventory_PimaCotton
+Amount of Farm Inventory: Rice,Amount_FarmInventory_Rice
+Amount of Farm Inventory: Sorghum for Grain,Amount_FarmInventory_SorghumForGrain
+Amount of Farm Inventory: Sorghum for Silage or Greenchop,Amount_FarmInventory_SorghumForSilageOrGreenchop
+Amount of Farm Inventory: Sugarbeets for Sugar,Amount_FarmInventory_SugarbeetsForSugar
+Amount of Farm Inventory: Sunflower Seed,Amount_FarmInventory_SunflowerSeed
+Amount of Farm Inventory: Upland Cotton,Amount_FarmInventory_UplandCotton
+Amount of Farm Inventory: Wheat for Grain,Amount_FarmInventory_WheatForGrain
+Amount of Farm Inventory: Corn for Grain,Amout_FarmInventory_CornForGrain
+Total IUCD Insertions done,Count_BirthControlEvent_IUCDInsertion
+Percent of IUCD insertions to all family planning methods,Count_BirthControlEvent_IUCDInsertion_AsFractionOf_Count_BirthControlEvent
+Total Sterilisation Conducted,Count_BirthControlEvent_Sterilisation
+Number of Tubectomies Conducted,Count_BirthControlEvent_Tubectomy
+Number of Vasectomies Conducted,Count_BirthControlEvent_Vasectomy
+Percent of Male Vasectomies to Total sterilisations,Count_BirthControlEvent_Vasectomy_AsFractionOf_Count_BirthControlEvent_Sterlization
+Percent of total reported live births to total deliveries,Count_BirthEvent_LiveBirth_AsFractionOf_Count_ChildDeliveryEvent
+Total number of reported still births,Count_BirthEvent_StillBirth
+Total reported child deliveries,Count_ChildDeliveryEvent
+Number of home deliveries,Count_ChildDeliveryEvent_AtHome
+Number of home deliveries attended by Standby Assist (Doctor/Nurse/Auxillary Nurse Midwife),Count_ChildDeliveryEvent_AtHome_WithStandbyAssist
+Institutional deliveries (includes public and private institutions),Count_ChildDeliveryEvent_InAnInstitution
+Deliveries conducted at public institutions,Count_ChildDeliveryEvent_InPublicInstitution
+Number of infants given MMR Vaccine,Count_ChildVaccinationEvent_MMR
+Number of distributed contraceptives (condoms),Count_ContraceptiveDistribution_Condom
+Number of distributed contraceptives (oral pills),Count_ContraceptiveDistribution_OralPill
+Count of Criminal Activities: Aggravated Assault,Count_CriminalActivities_AggravatedAssault
+Count of Criminal Activities: Arson,Count_CriminalActivities_Arson
+Count of Criminal Activities: Burglary,Count_CriminalActivities_Burglary
+Count of Criminal Activities,Count_CriminalActivities_CombinedCrime
+Count of Criminal Activities: Forcible Rape,Count_CriminalActivities_ForcibleRape
+Count of Criminal Activities: Larceny Theft,Count_CriminalActivities_LarcenyTheft
+Count of Criminal Activities: Motor Vehicle Theft,Count_CriminalActivities_MotorVehicleTheft
+Count of Criminal Activities: Murder And Non Negligent Manslaughter,Count_CriminalActivities_MurderAndNonNegligentManslaughter
+Count of Criminal Activities: Murder And Non Negligent Manslaughter (Per Capita),Count_CriminalActivities_MurderAndNonNegligentManslaughter_AsFractionOf_Count_Person
+"Count of Criminal Activities: Murder And Non Negligent Manslaughter, Female (As Fraction of Count Person Female)",Count_CriminalActivities_MurderAndNonNegligentManslaughter_Female_AsFractionOf_Count_Person_Female
+"Count of Criminal Activities: Murder And Non Negligent Manslaughter, Male (As Fraction of Count Person Male)",Count_CriminalActivities_MurderAndNonNegligentManslaughter_Male_AsFractionOf_Count_Person_Male
+Count of Criminal Activities: Property,Count_CriminalActivities_PropertyCrime
+Count of Criminal Activities: Robbery,Count_CriminalActivities_Robbery
+Count of Criminal Activities: Violent,Count_CriminalActivities_ViolentCrime
+Total cases of deaths following Sterilisation (Male and Female),Count_Death_BirthControlSterilisation
+Total number of infant deaths reported,Count_Death_Infant
+Percentage of safe deliveries to total reported deliveries,Count_DeliveryEvent_Safe_AsFractionOf_Count_DeliveryEvent
+Count of Farm Inventory: Beef Cows,Count_FarmInventory_BeefCows
+Count of Farm Inventory: Broilers,Count_FarmInventory_Broilers
+Count of Farm Inventory: Cattle And Calves,Count_FarmInventory_CattleAndCalves
+Count of Farm Inventory: Hogs And Pigs,Count_FarmInventory_HogsAndPigs
+Count of Farm Inventory: Layers,Count_FarmInventory_Layers
+Count of Farm Inventory: Milk Cows,Count_FarmInventory_MilkCows
+Count of Farm Inventory: Sheep And Lambs,Count_FarmInventory_SheepAndLambs
+Count of Household,Count_Household
+"Count of Household: Family Household, Below Poverty Level in The Past 12 Months",Count_Household_FamilyHousehold_BelowPovertyLevelInThePast12Months
+"Count of Household: 100,000 - 149,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf100000To149999InflationAdjustedUSDCurrentYear
+"Count of Household: 10,000 Inflation Adjusted USD_Current Year or Less, With Income",Count_Household_IncomeOf10000OrLessInflationAdjustedUSDCurrentYear
+"Count of Household: 10,000 - 14,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf10000To14999InflationAdjustedUSDCurrentYear
+"Count of Household: 150,000 - 199,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf150000To199999InflationAdjustedUSDCurrentYear
+"Count of Household: 15,000 - 24,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf15000To24999InflationAdjustedUSDCurrentYear
+"Count of Household: 200,000 Inflation Adjusted USD_Current Year or More, With Income",Count_Household_IncomeOf200000OrMoreInflationAdjustedUSDCurrentYear
+"Count of Household: 25,000 - 34,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf25000To34999InflationAdjustedUSDCurrentYear
+"Count of Household: 35,000 - 49,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf35000To49999InflationAdjustedUSDCurrentYear
+"Count of Household: 50,000 - 74,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf50000To74999InflationAdjustedUSDCurrentYear
+"Count of Household: 75,000 - 99,999 Inflation Adjusted USD_Current Year, With Income",Count_Household_IncomeOf75000To99999InflationAdjustedUSDCurrentYear
+"Count of Household: Married Couple Family Household, Below Poverty Level in The Past 12 Months",Count_Household_MarriedCoupleFamilyHousehold_BelowPovertyLevelInThePast12Months
+Count of Household: No Health Insurance,Count_Household_NoHealthInsurance
+"Count of Household: No Health Insurance, 100,000 USD or More",Count_Household_NoHealthInsurance_IncomeOf100000OrMoreUSDollar
+"Count of Household: No Health Insurance, 25,000 USD or Less",Count_Household_NoHealthInsurance_IncomeOf25000OrLessUSDollar
+"Count of Household: No Health Insurance, 25,000 - 49,999 USD",Count_Household_NoHealthInsurance_IncomeOf25000To49999USDollar
+"Count of Household: No Health Insurance, 75,000 - 99,999 USD",Count_Household_NoHealthInsurance_IncomeOf75000To99999USDollar
+"Count of Household: Single Mother Family Household, Below Poverty Level in The Past 12 Months",Count_Household_SingleMotherFamilyHousehold_BelowPovertyLevelInThePast12Months
+Count of Household: With Food Stamps in The Past 12 Months,Count_Household_WithFoodStampsInThePast12Months
+"Count of Household: With Food Stamps in The Past 12 Months, Above Poverty Level in The Past 12 Months",Count_Household_WithFoodStampsInThePast12Months_AbovePovertyLevelInThePast12Months
+"Count of Household: With Food Stamps in The Past 12 Months, American Indian or Alaska Native Alone",Count_Household_WithFoodStampsInThePast12Months_AmericanIndianOrAlaskaNativeAlone
+"Count of Household: With Food Stamps in The Past 12 Months, Asian Alone",Count_Household_WithFoodStampsInThePast12Months_AsianAlone
+"Count of Household: With Food Stamps in The Past 12 Months, Below Poverty Level in The Past 12 Months",Count_Household_WithFoodStampsInThePast12Months_BelowPovertyLevelInThePast12Months
+"Count of Household: With Food Stamps in The Past 12 Months, Black or African American Alone",Count_Household_WithFoodStampsInThePast12Months_BlackOrAfricanAmericanAlone
+"Count of Household: With Food Stamps in The Past 12 Months, Family Household",Count_Household_WithFoodStampsInThePast12Months_FamilyHousehold
+"Count of Household: With Food Stamps in The Past 12 Months, Hispanic or Latino",Count_Household_WithFoodStampsInThePast12Months_HispanicOrLatino
+"Count of Household: With Food Stamps in The Past 12 Months, Married Couple Family Household",Count_Household_WithFoodStampsInThePast12Months_MarriedCoupleFamilyHousehold
+"Count of Household: With Food Stamps in The Past 12 Months, Native Hawaiian or Other Pacific Islander Alone",Count_Household_WithFoodStampsInThePast12Months_NativeHawaiianOrOtherPacificIslanderAlone
+"Count of Household: With Food Stamps in The Past 12 Months, No Disability",Count_Household_WithFoodStampsInThePast12Months_NoDisability
+"Count of Household: With Food Stamps in The Past 12 Months, Nonfamily Household",Count_Household_WithFoodStampsInThePast12Months_NonfamilyHousehold
+"Count of Household: With Food Stamps in The Past 12 Months, One Race",Count_Household_WithFoodStampsInThePast12Months_OneRace
+"Count of Household: With Food Stamps in The Past 12 Months, Other Family Household",Count_Household_WithFoodStampsInThePast12Months_OtherFamilyHousehold
+"Count of Household: With Food Stamps in The Past 12 Months, Single Father Family Household",Count_Household_WithFoodStampsInThePast12Months_SingleFatherFamilyHousehold
+"Count of Household: With Food Stamps in The Past 12 Months, Single Mother Family Household",Count_Household_WithFoodStampsInThePast12Months_SingleMotherFamilyHousehold
+"Count of Household: With Food Stamps in The Past 12 Months, Some Other Race Alone",Count_Household_WithFoodStampsInThePast12Months_SomeOtherRaceAlone
+"Count of Household: With Food Stamps in The Past 12 Months, Two or More Races",Count_Household_WithFoodStampsInThePast12Months_TwoOrMoreRaces
+"Count of Household: With Food Stamps in The Past 12 Months, White Alone",Count_Household_WithFoodStampsInThePast12Months_WhiteAlone
+"Count of Household: With Food Stamps in The Past 12 Months, White Alone Not Hispanic or Latino",Count_Household_WithFoodStampsInThePast12Months_WhiteAloneNotHispanicOrLatino
+"Count of Household: With Food Stamps in The Past 12 Months, With Children Under 18",Count_Household_WithFoodStampsInThePast12Months_WithChildrenUnder18
+"Count of Household: With Food Stamps in The Past 12 Months, With Disability",Count_Household_WithFoodStampsInThePast12Months_WithDisability
+"Count of Household: With Food Stamps in The Past 12 Months, With People Over 60",Count_Household_WithFoodStampsInThePast12Months_WithPeopleOver60
+"Count of Household: With Food Stamps in The Past 12 Months, Without Children Under 18",Count_Household_WithFoodStampsInThePast12Months_WithoutChildrenUnder18
+"Count of Household: With Food Stamps in The Past 12 Months, Without People Over 60",Count_Household_WithFoodStampsInThePast12Months_WithoutPeopleOver60
+"Count of Household: With SSIAnd or Cash Assistance in The Past 12 Months, Family Household",Count_Household_WithSSIAndOrCashAssistanceInThePast12Months_FamilyHousehold
+"Count of Household: With SSIAnd or Cash Assistance in The Past 12 Months, Married Couple Family Household",Count_Household_WithSSIAndOrCashAssistanceInThePast12Months_MarriedCoupleFamilyHousehold
+"Count of Household: With SSIAnd or Cash Assistance in The Past 12 Months, Single Mother Family Household",Count_Household_WithSSIAndOrCashAssistanceInThePast12Months_SingleMotherFamilyHousehold
+"Count of Household: With Social Security Income in The Past 12 Months, Family Household",Count_Household_WithSocialSecurityIncomeInThePast12Months_FamilyHousehold
+"Count of Household: With Social Security Income in The Past 12 Months, Married Couple Family Household",Count_Household_WithSocialSecurityIncomeInThePast12Months_MarriedCoupleFamilyHousehold
+"Count of Household: With Social Security Income in The Past 12 Months, Single Mother Family Household",Count_Household_WithSocialSecurityIncomeInThePast12Months_SingleMotherFamilyHousehold
+Count of Household: Without Food Stamps in The Past 12 Months,Count_Household_WithoutFoodStampsInThePast12Months
+"Count of Household: Without Food Stamps in The Past 12 Months, Above Poverty Level in The Past 12 Months",Count_Household_WithoutFoodStampsInThePast12Months_AbovePovertyLevelInThePast12Months
+"Count of Household: Without Food Stamps in The Past 12 Months, American Indian or Alaska Native Alone",Count_Household_WithoutFoodStampsInThePast12Months_AmericanIndianOrAlaskaNativeAlone
+"Count of Household: Without Food Stamps in The Past 12 Months, Asian Alone",Count_Household_WithoutFoodStampsInThePast12Months_AsianAlone
+"Count of Household: Without Food Stamps in The Past 12 Months, Below Poverty Level in The Past 12 Months",Count_Household_WithoutFoodStampsInThePast12Months_BelowPovertyLevelInThePast12Months
+"Count of Household: Without Food Stamps in The Past 12 Months, Black or African American Alone",Count_Household_WithoutFoodStampsInThePast12Months_BlackOrAfricanAmericanAlone
+"Count of Household: Without Food Stamps in The Past 12 Months, Family Household",Count_Household_WithoutFoodStampsInThePast12Months_FamilyHousehold
+"Count of Household: Without Food Stamps in The Past 12 Months, Hispanic or Latino",Count_Household_WithoutFoodStampsInThePast12Months_HispanicOrLatino
+"Count of Household: Without Food Stamps in The Past 12 Months, Married Couple Family Household",Count_Household_WithoutFoodStampsInThePast12Months_MarriedCoupleFamilyHousehold
+"Count of Household: Without Food Stamps in The Past 12 Months, Native Hawaiian or Other Pacific Islander Alone",Count_Household_WithoutFoodStampsInThePast12Months_NativeHawaiianOrOtherPacificIslanderAlone
+"Count of Household: Without Food Stamps in The Past 12 Months, No Disability",Count_Household_WithoutFoodStampsInThePast12Months_NoDisability
+"Count of Household: Without Food Stamps in The Past 12 Months, Nonfamily Household",Count_Household_WithoutFoodStampsInThePast12Months_NonfamilyHousehold
+"Count of Household: Without Food Stamps in The Past 12 Months, One Race",Count_Household_WithoutFoodStampsInThePast12Months_OneRace
+"Count of Household: Without Food Stamps in The Past 12 Months, Other Family Household",Count_Household_WithoutFoodStampsInThePast12Months_OtherFamilyHousehold
+"Count of Household: Without Food Stamps in The Past 12 Months, Single Father Family Household",Count_Household_WithoutFoodStampsInThePast12Months_SingleFatherFamilyHousehold
+"Count of Household: Without Food Stamps in The Past 12 Months, Single Mother Family Household",Count_Household_WithoutFoodStampsInThePast12Months_SingleMotherFamilyHousehold
+"Count of Household: Without Food Stamps in The Past 12 Months, Some Other Race Alone",Count_Household_WithoutFoodStampsInThePast12Months_SomeOtherRaceAlone
+"Count of Household: Without Food Stamps in The Past 12 Months, Two or More Races",Count_Household_WithoutFoodStampsInThePast12Months_TwoOrMoreRaces
+"Count of Household: Without Food Stamps in The Past 12 Months, White Alone",Count_Household_WithoutFoodStampsInThePast12Months_WhiteAlone
+"Count of Household: Without Food Stamps in The Past 12 Months, White Alone Not Hispanic or Latino",Count_Household_WithoutFoodStampsInThePast12Months_WhiteAloneNotHispanicOrLatino
+"Count of Household: Without Food Stamps in The Past 12 Months, With Children Under 18",Count_Household_WithoutFoodStampsInThePast12Months_WithChildrenUnder18
+"Count of Household: Without Food Stamps in The Past 12 Months, With Disability",Count_Household_WithoutFoodStampsInThePast12Months_WithDisability
+"Count of Household: Without Food Stamps in The Past 12 Months, With People Over 60",Count_Household_WithoutFoodStampsInThePast12Months_WithPeopleOver60
+"Count of Household: Without Food Stamps in The Past 12 Months, Without Children Under 18",Count_Household_WithoutFoodStampsInThePast12Months_WithoutChildrenUnder18
+"Count of Household: Without Food Stamps in The Past 12 Months, Without People Over 60",Count_Household_WithoutFoodStampsInThePast12Months_WithoutPeopleOver60
+Count of Housing Unit,Count_HousingUnit
+Number of infants given BCG vaccine,Count_Infant_VaccineAdministered_BCG
+Number of infants given DPT Vaccine Dose 1,Count_Infant_VaccineAdministered_DPTDose1
+Number of infants given DPT Vaccine Dose 2,Count_Infant_VaccineAdministered_DPTDose2
+Number of infants given DPT Vaccine Dose 3,Count_Infant_VaccineAdministered_DPTDose3
+Number of infants given OPV 0 Vaccine (Birth Dose),Count_Infant_VaccineAdministered_OPV
+Adverse events following immunization (Deaths),Count_Infant_VaccineSideEffect_Adverse_Deaths
+Adverse events following immunization (Others),Count_Infant_VaccineSideEffect_Adverse_Others
+Number of Inpatients,Count_Inpatient
+Percent of Inpatient Deaths to Total Inpatients,Count_Inpatient_Deceased_AsFractionOf_Count_Inpatient
+Number of Outpatients,Count_Outpatient
+"Number of Outpatients treated by Ayurveda, Yoga & naturopathy, Unani, Siddha or Homeopathy (AYUSH)",Count_Outpatient_AYUSH
+Population,Count_Person
+Population: Above Poverty Level in The Past 12 Months,Count_Person_AbovePovertyLevelInThePast12Months
+"Population: Above Poverty Level in The Past 12 Months, American Indian or Alaska Native Alone",Count_Person_AbovePovertyLevelInThePast12Months_AmericanIndianOrAlaskaNativeAlone
+"Population: Above Poverty Level in The Past 12 Months, Asian Alone",Count_Person_AbovePovertyLevelInThePast12Months_AsianAlone
+"Population: Above Poverty Level in The Past 12 Months, Black or African American Alone",Count_Person_AbovePovertyLevelInThePast12Months_BlackOrAfricanAmericanAlone
+"Population: Above Poverty Level in The Past 12 Months, Hispanic or Latino",Count_Person_AbovePovertyLevelInThePast12Months_HispanicOrLatino
+"Population: Above Poverty Level in The Past 12 Months, Native Hawaiian or Other Pacific Islander Alone",Count_Person_AbovePovertyLevelInThePast12Months_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Above Poverty Level in The Past 12 Months, Some Other Race Alone",Count_Person_AbovePovertyLevelInThePast12Months_SomeOtherRaceAlone
+"Population: Above Poverty Level in The Past 12 Months, Two or More Races",Count_Person_AbovePovertyLevelInThePast12Months_TwoOrMoreRaces
+"Population: Above Poverty Level in The Past 12 Months, White Alone",Count_Person_AbovePovertyLevelInThePast12Months_WhiteAlone
+"Population: Above Poverty Level in The Past 12 Months, White Alone Not Hispanic or Latino",Count_Person_AbovePovertyLevelInThePast12Months_WhiteAloneNotHispanicOrLatino
+Population: Ambulatory Difficulty,Count_Person_AmbulatoryDifficulty
+Population: American Indian or Alaska Native Alone,Count_Person_AmericanIndianAndAlaskaNativeAlone
+Population: American Indian And Alaska Native Alone or In Combination With One or More Other Races,Count_Person_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: American Indian or Alaska Native Alone,Count_Person_AmericanIndianOrAlaskaNativeAlone
+"Population: American Indian or Alaska Native Alone, Adult Correctional Facilities",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInAdultCorrectionalFacilities
+"Population: American Indian or Alaska Native Alone, College or University Student Housing",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInCollegeOrUniversityStudentHousing
+"Population: American Indian or Alaska Native Alone, Group Quarters",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInGroupQuarters
+"Population: American Indian or Alaska Native Alone, Institutionalized Group Quarters",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInInstitutionalizedGroupQuarters
+"Population: American Indian or Alaska Native Alone, Juvenile Facilities",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInJuvenileFacilities
+"Population: American Indian or Alaska Native Alone, Military Quarters or Military Ships",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: American Indian or Alaska Native Alone, Noninstitutionalized Group Quarters",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInNoninstitutionalizedGroupQuarters
+"Population: American Indian or Alaska Native Alone, Nursing Facilities",Count_Person_AmericanIndianOrAlaskaNativeAlone_ResidesInNursingFacilities
+Population: Asian Alone,Count_Person_AsianAlone
+Population: Asian Alone or In Combination With One or More Other Races,Count_Person_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Asian Alone, Adult Correctional Facilities",Count_Person_AsianAlone_ResidesInAdultCorrectionalFacilities
+"Population: Asian Alone, College or University Student Housing",Count_Person_AsianAlone_ResidesInCollegeOrUniversityStudentHousing
+"Population: Asian Alone, Group Quarters",Count_Person_AsianAlone_ResidesInGroupQuarters
+"Population: Asian Alone, Institutionalized Group Quarters",Count_Person_AsianAlone_ResidesInInstitutionalizedGroupQuarters
+"Population: Asian Alone, Juvenile Facilities",Count_Person_AsianAlone_ResidesInJuvenileFacilities
+"Population: Asian Alone, Military Quarters or Military Ships",Count_Person_AsianAlone_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Asian Alone, Noninstitutionalized Group Quarters",Count_Person_AsianAlone_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Asian Alone, Nursing Facilities",Count_Person_AsianAlone_ResidesInNursingFacilities
+Population: Asian or Pacific Islander,Count_Person_AsianOrPacificIslander
+Population: Below Poverty Level in The Past 12 Months,Count_Person_BelowPovertyLevelInThePast12Months
+"Population: Below Poverty Level in The Past 12 Months, American Indian or Alaska Native Alone",Count_Person_BelowPovertyLevelInThePast12Months_AmericanIndianOrAlaskaNativeAlone
+Population: Below Poverty Level in The Past 12 Months (Per Capita),Count_Person_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person
+"Population: Below Poverty Level in The Past 12 Months, Asian Alone",Count_Person_BelowPovertyLevelInThePast12Months_AsianAlone
+"Population: Below Poverty Level in The Past 12 Months, Black or African American Alone",Count_Person_BelowPovertyLevelInThePast12Months_BlackOrAfricanAmericanAlone
+"Population: Below Poverty Level in The Past 12 Months, Hispanic or Latino",Count_Person_BelowPovertyLevelInThePast12Months_HispanicOrLatino
+"Population: Below Poverty Level in The Past 12 Months, Native Hawaiian or Other Pacific Islander Alone",Count_Person_BelowPovertyLevelInThePast12Months_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Below Poverty Level in The Past 12 Months, Some Other Race Alone",Count_Person_BelowPovertyLevelInThePast12Months_SomeOtherRaceAlone
+"Population: Below Poverty Level in The Past 12 Months, Two or More Races",Count_Person_BelowPovertyLevelInThePast12Months_TwoOrMoreRaces
+"Population: Below Poverty Level in The Past 12 Months, White Alone",Count_Person_BelowPovertyLevelInThePast12Months_WhiteAlone
+"Population: Below Poverty Level in The Past 12 Months, White Alone Not Hispanic or Latino",Count_Person_BelowPovertyLevelInThePast12Months_WhiteAloneNotHispanicOrLatino
+Population: Black or African American Alone,Count_Person_BlackOrAfricanAmericanAlone
+Population: Black or African American Alone or In Combination With One or More Other Races,Count_Person_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Black or African American Alone, Adult Correctional Facilities",Count_Person_BlackOrAfricanAmericanAlone_ResidesInAdultCorrectionalFacilities
+"Population: Black or African American Alone, College or University Student Housing",Count_Person_BlackOrAfricanAmericanAlone_ResidesInCollegeOrUniversityStudentHousing
+"Population: Black or African American Alone, Group Quarters",Count_Person_BlackOrAfricanAmericanAlone_ResidesInGroupQuarters
+"Population: Black or African American Alone, Institutionalized Group Quarters",Count_Person_BlackOrAfricanAmericanAlone_ResidesInInstitutionalizedGroupQuarters
+"Population: Black or African American Alone, Juvenile Facilities",Count_Person_BlackOrAfricanAmericanAlone_ResidesInJuvenileFacilities
+"Population: Black or African American Alone, Military Quarters or Military Ships",Count_Person_BlackOrAfricanAmericanAlone_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Black or African American Alone, Noninstitutionalized Group Quarters",Count_Person_BlackOrAfricanAmericanAlone_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Black or African American Alone, Nursing Facilities",Count_Person_BlackOrAfricanAmericanAlone_ResidesInNursingFacilities
+"Population: Citizen Outside EU28, Female",Count_Person_CitizenOutsideEU28_Female
+"Population: Citizen Outside EU28, Male",Count_Person_CitizenOutsideEU28_Male
+"Population: Citizen, Female",Count_Person_Citizen_Female
+"Population: Citizen, Male",Count_Person_Citizen_Male
+Population: Cognitive Difficulty,Count_Person_CognitiveDifficulty
+Population: 9th To 12th Grade No Diploma,Count_Person_EducationalAttainment_9ThTo12ThGradeNoDiploma
+Population: Less Than 9th Grade,Count_Person_EducationalAttainment_LessThan9ThGrade
+Population: Less Than High School Diploma,Count_Person_EducationalAttainment_LessThanHighSchoolDiploma
+Population: Some College No Degree,Count_Person_EducationalAttainment_SomeCollegeNoDegree
+Population: Female,Count_Person_Female
+"Population: Female, Above Poverty Level in The Past 12 Months",Count_Person_Female_AbovePovertyLevelInThePast12Months
+"Population: Female, American Indian And Alaska Native Alone or In Combination With One or More Other Races",Count_Person_Female_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, American Indian or Alaska Native Alone",Count_Person_Female_AmericanIndianOrAlaskaNativeAlone
+"Population: Female, Asian Alone",Count_Person_Female_AsianAlone
+"Population: Female, Asian Alone or In Combination With One or More Other Races",Count_Person_Female_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Asian or Pacific Islander",Count_Person_Female_AsianOrPacificIslander
+"Population: Female, Below Poverty Level in The Past 12 Months",Count_Person_Female_BelowPovertyLevelInThePast12Months
+"Population: Female, Black or African American Alone",Count_Person_Female_BlackOrAfricanAmericanAlone
+"Population: Female, Black or African American Alone or In Combination With One or More Other Races",Count_Person_Female_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Foreign Born",Count_Person_Female_ForeignBorn
+"Population: Female, Foreign Born Outside EU28",Count_Person_Female_ForeignBornOutsideEU28
+"Population: Female, Foreign Born Within EU28",Count_Person_Female_ForeignBornWithinEU28
+"Population: Female, Hispanic or Latino",Count_Person_Female_HispanicOrLatino
+"Population: Female, Hispanic or Latino & American Indian And Alaska Native Alone or In Combination With One or More Other Races",Count_Person_Female_HispanicOrLatino_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Hispanic or Latino & American Indian or Alaska Native Alone",Count_Person_Female_HispanicOrLatino_AmericanIndianOrAlaskaNativeAlone
+"Population: Female, Hispanic or Latino & Asian Alone",Count_Person_Female_HispanicOrLatino_AsianAlone
+"Population: Female, Hispanic or Latino & Asian Alone or In Combination With One or More Other Races",Count_Person_Female_HispanicOrLatino_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Hispanic or Latino & Asian or Pacific Islander",Count_Person_Female_HispanicOrLatino_AsianOrPacificIslander
+"Population: Female, Hispanic or Latino & Black or African American Alone",Count_Person_Female_HispanicOrLatino_BlackOrAfricanAmericanAlone
+"Population: Female, Hispanic or Latino & Black or African American Alone or In Combination With One or More Other Races",Count_Person_Female_HispanicOrLatino_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Hispanic or Latino & Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races",Count_Person_Female_HispanicOrLatino_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone",Count_Person_Female_HispanicOrLatino_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Female, Hispanic or Latino & Two or More Races",Count_Person_Female_HispanicOrLatino_TwoOrMoreRaces
+"Population: Female, Hispanic or Latino & White Alone",Count_Person_Female_HispanicOrLatino_WhiteAlone
+"Population: Female, Hispanic or Latino & White Alone or In Combination With One or More Other Races",Count_Person_Female_HispanicOrLatino_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Income Of 0 To 20 Percentile",Count_Person_Female_IncomeOf0To20Percentile
+"Population: Female, Income Of 20 To 40 Percentile",Count_Person_Female_IncomeOf20To40Percentile
+"Population: Female, Income Of 40 To 60 Percentile",Count_Person_Female_IncomeOf40To60Percentile
+"Population: Female, Income Of 60 To 80 Percentile",Count_Person_Female_IncomeOf60To80Percentile
+"Population: Female, Income Of 80 To 100 Percentile",Count_Person_Female_IncomeOf80To100Percentile
+"Population: Female, Limited Activity Limitation",Count_Person_Female_LimitedActivityLimitation
+"Population: Female, Moderate Activity Limitation",Count_Person_Female_ModerateActivityLimitation
+"Population: Female, Native",Count_Person_Female_Native
+"Population: Female, Native Hawaiian or Other Pacific Islander Alone",Count_Person_Female_NativeHawaiianAndOtherPacificIslanderAlone
+"Population: Female, Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races",Count_Person_Female_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Native Hawaiian or Other Pacific Islander Alone",Count_Person_Female_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Female, No Activity Limitation",Count_Person_Female_NoActivityLimitation
+"Population: Female, Non White",Count_Person_Female_NonWhite
+"Population: Female, Normalweight",Count_Person_Female_Normalweight
+"Population: Female, Not Hispanic or Latino",Count_Person_Female_NotHispanicOrLatino
+"Population: Female, Not Hispanic or Latino & American Indian And Alaska Native Alone or In Combination With One or More Other Races",Count_Person_Female_NotHispanicOrLatino_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Not Hispanic or Latino & American Indian or Alaska Native Alone",Count_Person_Female_NotHispanicOrLatino_AmericanIndianOrAlaskaNativeAlone
+"Population: Female, Not Hispanic or Latino & Asian Alone",Count_Person_Female_NotHispanicOrLatino_AsianAlone
+"Population: Female, Not Hispanic or Latino & Asian Alone or In Combination With One or More Other Races",Count_Person_Female_NotHispanicOrLatino_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Not Hispanic or Latino & Asian or Pacific Islander",Count_Person_Female_NotHispanicOrLatino_AsianOrPacificIslander
+"Population: Female, Not Hispanic or Latino & Black or African American Alone",Count_Person_Female_NotHispanicOrLatino_BlackOrAfricanAmericanAlone
+"Population: Female, Not Hispanic or Latino & Black or African American Alone or In Combination With One or More Other Races",Count_Person_Female_NotHispanicOrLatino_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races",Count_Person_Female_NotHispanicOrLatino_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone",Count_Person_Female_NotHispanicOrLatino_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Female, Not Hispanic or Latino & Two or More Races",Count_Person_Female_NotHispanicOrLatino_TwoOrMoreRaces
+"Population: Female, Not Hispanic or Latino & White Alone",Count_Person_Female_NotHispanicOrLatino_WhiteAlone
+"Population: Female, Not Hispanic or Latino & White Alone or In Combination With One or More Other Races",Count_Person_Female_NotHispanicOrLatino_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Obesity",Count_Person_Female_Obesity
+"Population: Female, Overweight",Count_Person_Female_Overweight
+"Population: Female, Pre Obese",Count_Person_Female_PreObese
+"Population: Female, Adult Correctional Facilities",Count_Person_Female_ResidesInAdultCorrectionalFacilities
+"Population: Female, College or University Student Housing",Count_Person_Female_ResidesInCollegeOrUniversityStudentHousing
+"Population: Female, Group Quarters",Count_Person_Female_ResidesInGroupQuarters
+"Population: Female, Institutionalized Group Quarters",Count_Person_Female_ResidesInInstitutionalizedGroupQuarters
+"Population: Female, Juvenile Facilities",Count_Person_Female_ResidesInJuvenileFacilities
+"Population: Female, Military Quarters or Military Ships",Count_Person_Female_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Female, Noninstitutionalized Group Quarters",Count_Person_Female_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Female, Nursing Facilities",Count_Person_Female_ResidesInNursingFacilities
+"Population: Female, Severe Activity Limitation",Count_Person_Female_SevereActivityLimitation
+"Population: Female, Some Other Race Alone",Count_Person_Female_SomeOtherRaceAlone
+"Population: Female, Two or More Races",Count_Person_Female_TwoOrMoreRaces
+"Population: Female, Underweight",Count_Person_Female_Underweight
+"Population: Female, White Alone",Count_Person_Female_WhiteAlone
+"Population: Female, White Alone Not Hispanic or Latino",Count_Person_Female_WhiteAloneNotHispanicOrLatino
+"Population: Female, White Alone or In Combination With One or More Other Races",Count_Person_Female_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, With Earnings",Count_Person_Female_WithEarnings
+Population: Hearing Difficulty,Count_Person_HearingDifficulty
+Population: Hispanic or Latino,Count_Person_HispanicOrLatino
+Population: Hispanic or Latino & American Indian And Alaska Native Alone or In Combination With One or More Other Races,Count_Person_HispanicOrLatino_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Hispanic or Latino & American Indian or Alaska Native Alone,Count_Person_HispanicOrLatino_AmericanIndianOrAlaskaNativeAlone
+Population: Hispanic or Latino & Asian Alone,Count_Person_HispanicOrLatino_AsianAlone
+Population: Hispanic or Latino & Asian Alone or In Combination With One or More Other Races,Count_Person_HispanicOrLatino_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Hispanic or Latino & Asian or Pacific Islander,Count_Person_HispanicOrLatino_AsianOrPacificIslander
+Population: Hispanic or Latino & Black or African American Alone,Count_Person_HispanicOrLatino_BlackOrAfricanAmericanAlone
+Population: Hispanic or Latino & Black or African American Alone or In Combination With One or More Other Races,Count_Person_HispanicOrLatino_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Hispanic or Latino & Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races,Count_Person_HispanicOrLatino_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone,Count_Person_HispanicOrLatino_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Hispanic or Latino, Adult Correctional Facilities",Count_Person_HispanicOrLatino_ResidesInAdultCorrectionalFacilities
+"Population: Hispanic or Latino, College or University Student Housing",Count_Person_HispanicOrLatino_ResidesInCollegeOrUniversityStudentHousing
+"Population: Hispanic or Latino, Group Quarters",Count_Person_HispanicOrLatino_ResidesInGroupQuarters
+"Population: Hispanic or Latino, Institutionalized Group Quarters",Count_Person_HispanicOrLatino_ResidesInInstitutionalizedGroupQuarters
+"Population: Hispanic or Latino, Juvenile Facilities",Count_Person_HispanicOrLatino_ResidesInJuvenileFacilities
+"Population: Hispanic or Latino, Military Quarters or Military Ships",Count_Person_HispanicOrLatino_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Hispanic or Latino, Noninstitutionalized Group Quarters",Count_Person_HispanicOrLatino_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Hispanic or Latino, Nursing Facilities",Count_Person_HispanicOrLatino_ResidesInNursingFacilities
+Population: Hispanic or Latino & Two or More Races,Count_Person_HispanicOrLatino_TwoOrMoreRaces
+Population: Hispanic or Latino & White Alone,Count_Person_HispanicOrLatino_WhiteAlone
+Population: Hispanic or Latino & White Alone or In Combination With One or More Other Races,Count_Person_HispanicOrLatino_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Female, Houseless",Count_Person_Houseless_Female
+"Population: Male, Houseless",Count_Person_Houseless_Male
+"Population: Female, Illiterate",Count_Person_Illiterate_Female
+"Population: Male, Illiterate",Count_Person_Illiterate_Male
+Population: Independent Living Difficulty,Count_Person_IndependentLivingDifficulty
+Population: Less Than Primary Education Or Primary Education Or Lower Secondary Education,Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+"Population: Less Than Primary Education Or Primary Education Or Lower Secondary Education, Female",Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation_Female
+"Population: Less Than Primary Education Or Primary Education Or Lower Secondary Education, Male",Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation_Male
+"Population: Female, Literate",Count_Person_Literate_Female
+"Population: Male, Literate",Count_Person_Literate_Male
+Population: Male,Count_Person_Male
+"Population: Male, Above Poverty Level in The Past 12 Months",Count_Person_Male_AbovePovertyLevelInThePast12Months
+"Population: Male, American Indian And Alaska Native Alone or In Combination With One or More Other Races",Count_Person_Male_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, American Indian or Alaska Native Alone",Count_Person_Male_AmericanIndianOrAlaskaNativeAlone
+"Population: Male, Asian Alone",Count_Person_Male_AsianAlone
+"Population: Male, Asian Alone or In Combination With One or More Other Races",Count_Person_Male_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Asian or Pacific Islander",Count_Person_Male_AsianOrPacificIslander
+"Population: Male, Below Poverty Level in The Past 12 Months",Count_Person_Male_BelowPovertyLevelInThePast12Months
+"Population: Male, Black or African American Alone",Count_Person_Male_BlackOrAfricanAmericanAlone
+"Population: Male, Black or African American Alone or In Combination With One or More Other Races",Count_Person_Male_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Foreign Born",Count_Person_Male_ForeignBorn
+"Population: Male, Foreign Born Outside EU28",Count_Person_Male_ForeignBornOutsideEU28
+"Population: Male, Foreign Born Within EU28",Count_Person_Male_ForeignBornWithinEU28
+"Population: Male, Hispanic or Latino",Count_Person_Male_HispanicOrLatino
+"Population: Male, Hispanic or Latino & American Indian And Alaska Native Alone or In Combination With One or More Other Races",Count_Person_Male_HispanicOrLatino_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Hispanic or Latino & American Indian or Alaska Native Alone",Count_Person_Male_HispanicOrLatino_AmericanIndianOrAlaskaNativeAlone
+"Population: Male, Hispanic or Latino & Asian Alone",Count_Person_Male_HispanicOrLatino_AsianAlone
+"Population: Male, Hispanic or Latino & Asian Alone or In Combination With One or More Other Races",Count_Person_Male_HispanicOrLatino_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Hispanic or Latino & Asian or Pacific Islander",Count_Person_Male_HispanicOrLatino_AsianOrPacificIslander
+"Population: Male, Hispanic or Latino & Black or African American Alone",Count_Person_Male_HispanicOrLatino_BlackOrAfricanAmericanAlone
+"Population: Male, Hispanic or Latino & Black or African American Alone or In Combination With One or More Other Races",Count_Person_Male_HispanicOrLatino_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Hispanic or Latino & Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races",Count_Person_Male_HispanicOrLatino_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone",Count_Person_Male_HispanicOrLatino_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Male, Hispanic or Latino & Two or More Races",Count_Person_Male_HispanicOrLatino_TwoOrMoreRaces
+"Population: Male, Hispanic or Latino & White Alone",Count_Person_Male_HispanicOrLatino_WhiteAlone
+"Population: Male, Hispanic or Latino & White Alone or In Combination With One or More Other Races",Count_Person_Male_HispanicOrLatino_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Income Of 0 To 20 Percentile",Count_Person_Male_IncomeOf0To20Percentile
+"Population: Male, Income Of 20 To 40 Percentile",Count_Person_Male_IncomeOf20To40Percentile
+"Population: Male, Income Of 40 To 60 Percentile",Count_Person_Male_IncomeOf40To60Percentile
+"Population: Male, Income Of 60 To 80 Percentile",Count_Person_Male_IncomeOf60To80Percentile
+"Population: Male, Income Of 80 To 100 Percentile",Count_Person_Male_IncomeOf80To100Percentile
+"Population: Male, Limited Activity Limitation",Count_Person_Male_LimitedActivityLimitation
+"Population: Male, Moderate Activity Limitation",Count_Person_Male_ModerateActivityLimitation
+"Population: Male, Native",Count_Person_Male_Native
+"Population: Male, Native Hawaiian or Other Pacific Islander Alone",Count_Person_Male_NativeHawaiianAndOtherPacificIslanderAlone
+"Population: Male, Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races",Count_Person_Male_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Native Hawaiian or Other Pacific Islander Alone",Count_Person_Male_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Male, No Activity Limitation",Count_Person_Male_NoActivityLimitation
+"Population: Male, Non White",Count_Person_Male_NonWhite
+"Population: Male, Normalweight",Count_Person_Male_Normalweight
+"Population: Male, Not Hispanic or Latino",Count_Person_Male_NotHispanicOrLatino
+"Population: Male, Not Hispanic or Latino & American Indian And Alaska Native Alone or In Combination With One or More Other Races",Count_Person_Male_NotHispanicOrLatino_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Not Hispanic or Latino & American Indian or Alaska Native Alone",Count_Person_Male_NotHispanicOrLatino_AmericanIndianOrAlaskaNativeAlone
+"Population: Male, Not Hispanic or Latino & Asian Alone",Count_Person_Male_NotHispanicOrLatino_AsianAlone
+"Population: Male, Not Hispanic or Latino & Asian Alone or In Combination With One or More Other Races",Count_Person_Male_NotHispanicOrLatino_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Not Hispanic or Latino & Asian or Pacific Islander",Count_Person_Male_NotHispanicOrLatino_AsianOrPacificIslander
+"Population: Male, Not Hispanic or Latino & Black or African American Alone",Count_Person_Male_NotHispanicOrLatino_BlackOrAfricanAmericanAlone
+"Population: Male, Not Hispanic or Latino & Black or African American Alone or In Combination With One or More Other Races",Count_Person_Male_NotHispanicOrLatino_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races",Count_Person_Male_NotHispanicOrLatino_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone",Count_Person_Male_NotHispanicOrLatino_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Male, Not Hispanic or Latino & Two or More Races",Count_Person_Male_NotHispanicOrLatino_TwoOrMoreRaces
+"Population: Male, Not Hispanic or Latino & White Alone",Count_Person_Male_NotHispanicOrLatino_WhiteAlone
+"Population: Male, Not Hispanic or Latino & White Alone or In Combination With One or More Other Races",Count_Person_Male_NotHispanicOrLatino_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, Obesity",Count_Person_Male_Obesity
+"Population: Male, Overweight",Count_Person_Male_Overweight
+"Population: Male, Pre Obese",Count_Person_Male_PreObese
+"Population: Male, Adult Correctional Facilities",Count_Person_Male_ResidesInAdultCorrectionalFacilities
+"Population: Male, College or University Student Housing",Count_Person_Male_ResidesInCollegeOrUniversityStudentHousing
+"Population: Male, Group Quarters",Count_Person_Male_ResidesInGroupQuarters
+"Population: Male, Institutionalized Group Quarters",Count_Person_Male_ResidesInInstitutionalizedGroupQuarters
+"Population: Male, Juvenile Facilities",Count_Person_Male_ResidesInJuvenileFacilities
+"Population: Male, Military Quarters or Military Ships",Count_Person_Male_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Male, Noninstitutionalized Group Quarters",Count_Person_Male_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Male, Nursing Facilities",Count_Person_Male_ResidesInNursingFacilities
+"Population: Male, Severe Activity Limitation",Count_Person_Male_SevereActivityLimitation
+"Population: Male, Some Other Race Alone",Count_Person_Male_SomeOtherRaceAlone
+"Population: Male, Two or More Races",Count_Person_Male_TwoOrMoreRaces
+"Population: Male, Underweight",Count_Person_Male_Underweight
+"Population: Male, White Alone",Count_Person_Male_WhiteAlone
+"Population: Male, White Alone Not Hispanic or Latino",Count_Person_Male_WhiteAloneNotHispanicOrLatino
+"Population: Male, White Alone or In Combination With One or More Other Races",Count_Person_Male_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Male, With Earnings",Count_Person_Male_WithEarnings
+Population: Native Hawaiian or Other Pacific Islander Alone,Count_Person_NativeHawaiianAndOtherPacificIslanderAlone
+Population: Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races,Count_Person_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Native Hawaiian or Other Pacific Islander Alone,Count_Person_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Native Hawaiian or Other Pacific Islander Alone, Adult Correctional Facilities",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInAdultCorrectionalFacilities
+"Population: Native Hawaiian or Other Pacific Islander Alone, College or University Student Housing",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInCollegeOrUniversityStudentHousing
+"Population: Native Hawaiian or Other Pacific Islander Alone, Group Quarters",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInGroupQuarters
+"Population: Native Hawaiian or Other Pacific Islander Alone, Institutionalized Group Quarters",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInInstitutionalizedGroupQuarters
+"Population: Native Hawaiian or Other Pacific Islander Alone, Juvenile Facilities",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInJuvenileFacilities
+"Population: Native Hawaiian or Other Pacific Islander Alone, Military Quarters or Military Ships",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Native Hawaiian or Other Pacific Islander Alone, Noninstitutionalized Group Quarters",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Native Hawaiian or Other Pacific Islander Alone, Nursing Facilities",Count_Person_NativeHawaiianOrOtherPacificIslanderAlone_ResidesInNursingFacilities
+Population: No Disability,Count_Person_NoDisability
+"Population: No Disability, Adult Correctional Facilities",Count_Person_NoDisability_ResidesInAdultCorrectionalFacilities
+"Population: No Disability, College or University Student Housing",Count_Person_NoDisability_ResidesInCollegeOrUniversityStudentHousing
+"Population: No Disability, Group Quarters",Count_Person_NoDisability_ResidesInGroupQuarters
+"Population: No Disability, Institutionalized Group Quarters",Count_Person_NoDisability_ResidesInInstitutionalizedGroupQuarters
+"Population: No Disability, Noninstitutionalized Group Quarters",Count_Person_NoDisability_ResidesInNoninstitutionalizedGroupQuarters
+"Population: No Disability, Nursing Facilities",Count_Person_NoDisability_ResidesInNursingFacilities
+Population: No Private Health Insurance,Count_Person_NoPrivateHealthInsurance
+Population: No Public Health Insurance,Count_Person_NoPublicHealthInsurance
+Population: Non White,Count_Person_NonWhite
+"Population: Female, Non Worker",Count_Person_NonWorker_Female
+"Population: Male, Non Worker",Count_Person_NonWorker_Male
+Population: Normalweight,Count_Person_Normalweight
+"Population: Not A Citizen, Female",Count_Person_NotACitizen_Female
+"Population: Not A Citizen, Male",Count_Person_NotACitizen_Male
+Population: Not Hispanic or Latino,Count_Person_NotHispanicOrLatino
+Population: Not Hispanic or Latino & American Indian And Alaska Native Alone or In Combination With One or More Other Races,Count_Person_NotHispanicOrLatino_AmericanIndianAndAlaskaNativeAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Not Hispanic or Latino & American Indian or Alaska Native Alone,Count_Person_NotHispanicOrLatino_AmericanIndianOrAlaskaNativeAlone
+Population: Not Hispanic or Latino & Asian Alone,Count_Person_NotHispanicOrLatino_AsianAlone
+Population: Not Hispanic or Latino & Asian Alone or In Combination With One or More Other Races,Count_Person_NotHispanicOrLatino_AsianAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Not Hispanic or Latino & Asian or Pacific Islander,Count_Person_NotHispanicOrLatino_AsianOrPacificIslander
+Population: Not Hispanic or Latino & Black or African American Alone,Count_Person_NotHispanicOrLatino_BlackOrAfricanAmericanAlone
+Population: Not Hispanic or Latino & Black or African American Alone or In Combination With One or More Other Races,Count_Person_NotHispanicOrLatino_BlackOrAfricanAmericanAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander Alone or In Combination With One or More Other Races,Count_Person_NotHispanicOrLatino_NativeHawaiianAndOtherPacificIslanderAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone,Count_Person_NotHispanicOrLatino_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Not Hispanic or Latino, Group Quarters",Count_Person_NotHispanicOrLatino_ResidesInGroupQuarters
+"Population: Not Hispanic or Latino, Institutionalized Group Quarters",Count_Person_NotHispanicOrLatino_ResidesInInstitutionalizedGroupQuarters
+"Population: Not Hispanic or Latino, Noninstitutionalized Group Quarters",Count_Person_NotHispanicOrLatino_ResidesInNoninstitutionalizedGroupQuarters
+Population: Not Hispanic or Latino & Two or More Races,Count_Person_NotHispanicOrLatino_TwoOrMoreRaces
+Population: Not Hispanic or Latino & White Alone or In Combination With One or More Other Races,Count_Person_NotHispanicOrLatino_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+Population: Obesity,Count_Person_Obesity
+Population: One Race,Count_Person_OneRace
+"Population: One Race, Adult Correctional Facilities",Count_Person_OneRace_ResidesInAdultCorrectionalFacilities
+"Population: One Race, College or University Student Housing",Count_Person_OneRace_ResidesInCollegeOrUniversityStudentHousing
+"Population: One Race, Group Quarters",Count_Person_OneRace_ResidesInGroupQuarters
+"Population: One Race, Institutionalized Group Quarters",Count_Person_OneRace_ResidesInInstitutionalizedGroupQuarters
+"Population: One Race, Juvenile Facilities",Count_Person_OneRace_ResidesInJuvenileFacilities
+"Population: One Race, Military Quarters or Military Ships",Count_Person_OneRace_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: One Race, Noninstitutionalized Group Quarters",Count_Person_OneRace_ResidesInNoninstitutionalizedGroupQuarters
+"Population: One Race, Nursing Facilities",Count_Person_OneRace_ResidesInNursingFacilities
+Population: Overweight,Count_Person_Overweight
+Population Density,Count_Person_PerArea
+Population: Poverty Status Determined,Count_Person_PovertyStatusDetermined
+"Population: Poverty Status Determined, Group Quarters",Count_Person_PovertyStatusDetermined_ResidesInGroupQuarters
+"Population: Poverty Status Determined, Institutionalized Group Quarters",Count_Person_PovertyStatusDetermined_ResidesInInstitutionalizedGroupQuarters
+"Population: Poverty Status Determined, Noninstitutionalized Group Quarters",Count_Person_PovertyStatusDetermined_ResidesInNoninstitutionalizedGroupQuarters
+Population: Pre Obese,Count_Person_PreObese
+"Population: Producer, American Indian or Alaska Native Alone",Count_Person_Producer_AmericanIndianOrAlaskaNativeAlone
+"Population: Producer, Asian Alone",Count_Person_Producer_AsianAlone
+"Population: Producer, Black or African American Alone",Count_Person_Producer_BlackOrAfricanAmericanAlone
+"Population: Producer, Hispanic or Latino",Count_Person_Producer_HispanicOrLatino
+"Population: Producer, Native Hawaiian or Other Pacific Islander Alone",Count_Person_Producer_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: Producer, Two or More Races",Count_Person_Producer_TwoOrMoreRaces
+"Population: Producer, White Alone",Count_Person_Producer_WhiteAlone
+"Population: Rural, Below Poverty Level in The Past 12 Months",Count_Person_Rural_BelowPovertyLevelInThePast12Months
+"Population: Rural, Below Poverty Level in The Past 12 Months (As Fraction of Count Person Rural)",Count_Person_Rural_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person_Rural
+"Population: Female, Rural",Count_Person_Rural_Female
+"Population: Male, Rural",Count_Person_Rural_Male
+"Population: Female, Scheduled Caste",Count_Person_ScheduledCaste_Female
+"Population: Male, Scheduled Caste",Count_Person_ScheduledCaste_Male
+"Population: Female, Scheduled Tribe",Count_Person_ScheduledTribe_Female
+"Population: Male, Scheduled Tribe",Count_Person_ScheduledTribe_Male
+Population: Self Care Difficulty,Count_Person_SelfCareDifficulty
+"Population: Semi Urban, Female",Count_Person_SemiUrban_Female
+"Population: Semi Urban, Male",Count_Person_SemiUrban_Male
+Population: Some Other Race Alone,Count_Person_SomeOtherRaceAlone
+Population: Some Other Race Alone or In Combination With One or More Other Races,Count_Person_SomeOtherRaceAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: Some Other Race Alone, Adult Correctional Facilities",Count_Person_SomeOtherRaceAlone_ResidesInAdultCorrectionalFacilities
+"Population: Some Other Race Alone, College or University Student Housing",Count_Person_SomeOtherRaceAlone_ResidesInCollegeOrUniversityStudentHousing
+"Population: Some Other Race Alone, Group Quarters",Count_Person_SomeOtherRaceAlone_ResidesInGroupQuarters
+"Population: Some Other Race Alone, Institutionalized Group Quarters",Count_Person_SomeOtherRaceAlone_ResidesInInstitutionalizedGroupQuarters
+"Population: Some Other Race Alone, Juvenile Facilities",Count_Person_SomeOtherRaceAlone_ResidesInJuvenileFacilities
+"Population: Some Other Race Alone, Military Quarters or Military Ships",Count_Person_SomeOtherRaceAlone_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Some Other Race Alone, Noninstitutionalized Group Quarters",Count_Person_SomeOtherRaceAlone_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Some Other Race Alone, Nursing Facilities",Count_Person_SomeOtherRaceAlone_ResidesInNursingFacilities
+Population: Tertiary Education,Count_Person_TertiaryEducation
+Population: Tertiary Education Stage One Or Tertiary Education Stage Two,Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo
+"Population: Tertiary Education Stage One Or Tertiary Education Stage Two, Female",Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo_Female
+"Population: Tertiary Education Stage One Or Tertiary Education Stage Two, Male",Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo_Male
+"Population: Tertiary Education, Female",Count_Person_TertiaryEducation_Female
+"Population: Tertiary Education, Male",Count_Person_TertiaryEducation_Male
+Population: Two or More Races,Count_Person_TwoOrMoreRaces
+"Population: Two or More Races, Adult Correctional Facilities",Count_Person_TwoOrMoreRaces_ResidesInAdultCorrectionalFacilities
+"Population: Two or More Races, College or University Student Housing",Count_Person_TwoOrMoreRaces_ResidesInCollegeOrUniversityStudentHousing
+"Population: Two or More Races, Group Quarters",Count_Person_TwoOrMoreRaces_ResidesInGroupQuarters
+"Population: Two or More Races, Institutionalized Group Quarters",Count_Person_TwoOrMoreRaces_ResidesInInstitutionalizedGroupQuarters
+"Population: Two or More Races, Juvenile Facilities",Count_Person_TwoOrMoreRaces_ResidesInJuvenileFacilities
+"Population: Two or More Races, Military Quarters or Military Ships",Count_Person_TwoOrMoreRaces_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: Two or More Races, Noninstitutionalized Group Quarters",Count_Person_TwoOrMoreRaces_ResidesInNoninstitutionalizedGroupQuarters
+"Population: Two or More Races, Nursing Facilities",Count_Person_TwoOrMoreRaces_ResidesInNursingFacilities
+Population: Underweight,Count_Person_Underweight
+Population: Upper Secondary Education Or Post Secondary Non Tertiary Education,Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+"Population: Upper Secondary Education Or Post Secondary Non Tertiary Education, Female",Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation_Female
+"Population: Upper Secondary Education Or Post Secondary Non Tertiary Education, Male",Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation_Male
+"Population: Urban, Below Poverty Level in The Past 12 Months",Count_Person_Urban_BelowPovertyLevelInThePast12Months
+"Population: Urban, Below Poverty Level in The Past 12 Months (As Fraction of Count Person Urban)",Count_Person_Urban_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person_Urban
+"Population: Female, Urban",Count_Person_Urban_Female
+"Population: Male, Urban",Count_Person_Urban_Male
+Population: Vision Difficulty,Count_Person_VisionDifficulty
+Population: White Alone,Count_Person_WhiteAlone
+Population: White Alone Not Hispanic or Latino,Count_Person_WhiteAloneNotHispanicOrLatino
+"Population: White Alone Not Hispanic or Latino, Adult Correctional Facilities",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInAdultCorrectionalFacilities
+"Population: White Alone Not Hispanic or Latino, College or University Student Housing",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInCollegeOrUniversityStudentHousing
+"Population: White Alone Not Hispanic or Latino, Group Quarters",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInGroupQuarters
+"Population: White Alone Not Hispanic or Latino, Institutionalized Group Quarters",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInInstitutionalizedGroupQuarters
+"Population: White Alone Not Hispanic or Latino, Juvenile Facilities",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInJuvenileFacilities
+"Population: White Alone Not Hispanic or Latino, Military Quarters or Military Ships",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: White Alone Not Hispanic or Latino, Noninstitutionalized Group Quarters",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInNoninstitutionalizedGroupQuarters
+"Population: White Alone Not Hispanic or Latino, Nursing Facilities",Count_Person_WhiteAloneNotHispanicOrLatino_ResidesInNursingFacilities
+Population: White Alone or In Combination With One or More Other Races,Count_Person_WhiteAloneOrInCombinationWithOneOrMoreOtherRaces
+"Population: White Alone, Adult Correctional Facilities",Count_Person_WhiteAlone_ResidesInAdultCorrectionalFacilities
+"Population: White Alone, College or University Student Housing",Count_Person_WhiteAlone_ResidesInCollegeOrUniversityStudentHousing
+"Population: White Alone, Group Quarters",Count_Person_WhiteAlone_ResidesInGroupQuarters
+"Population: White Alone, Institutionalized Group Quarters",Count_Person_WhiteAlone_ResidesInInstitutionalizedGroupQuarters
+"Population: White Alone, Juvenile Facilities",Count_Person_WhiteAlone_ResidesInJuvenileFacilities
+"Population: White Alone, Military Quarters or Military Ships",Count_Person_WhiteAlone_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: White Alone, Noninstitutionalized Group Quarters",Count_Person_WhiteAlone_ResidesInNoninstitutionalizedGroupQuarters
+"Population: White Alone, Nursing Facilities",Count_Person_WhiteAlone_ResidesInNursingFacilities
+Population: With Disability,Count_Person_WithDisability
+"Population: With Disability, American Indian or Alaska Native Alone",Count_Person_WithDisability_AmericanIndianOrAlaskaNativeAlone
+"Population: With Disability, Asian Alone",Count_Person_WithDisability_AsianAlone
+"Population: With Disability, Black or African American Alone",Count_Person_WithDisability_BlackOrAfricanAmericanAlone
+"Population: With Disability, Female",Count_Person_WithDisability_Female
+"Population: With Disability, Hispanic or Latino",Count_Person_WithDisability_HispanicOrLatino
+"Population: With Disability, Male",Count_Person_WithDisability_Male
+"Population: With Disability, Native Hawaiian or Other Pacific Islander Alone",Count_Person_WithDisability_NativeHawaiianOrOtherPacificIslanderAlone
+"Population: With Disability, One Race",Count_Person_WithDisability_OneRace
+"Population: With Disability, Adult Correctional Facilities",Count_Person_WithDisability_ResidesInAdultCorrectionalFacilities
+"Population: With Disability, College or University Student Housing",Count_Person_WithDisability_ResidesInCollegeOrUniversityStudentHousing
+"Population: With Disability, Group Quarters",Count_Person_WithDisability_ResidesInGroupQuarters
+"Population: With Disability, Institutionalized Group Quarters",Count_Person_WithDisability_ResidesInInstitutionalizedGroupQuarters
+"Population: With Disability, Juvenile Facilities",Count_Person_WithDisability_ResidesInJuvenileFacilities
+"Population: With Disability, Military Quarters or Military Ships",Count_Person_WithDisability_ResidesInMilitaryQuartersOrMilitaryShips
+"Population: With Disability, Noninstitutionalized Group Quarters",Count_Person_WithDisability_ResidesInNoninstitutionalizedGroupQuarters
+"Population: With Disability, Nursing Facilities",Count_Person_WithDisability_ResidesInNursingFacilities
+"Population: With Disability, Some Other Race Alone",Count_Person_WithDisability_SomeOtherRaceAlone
+"Population: With Disability, Two or More Races",Count_Person_WithDisability_TwoOrMoreRaces
+"Population: With Disability, White Alone",Count_Person_WithDisability_WhiteAlone
+"Population: With Disability, White Alone Not Hispanic or Latino",Count_Person_WithDisability_WhiteAloneNotHispanicOrLatino
+Population: With Food Stamps in The Past 12 Months,Count_Person_WithFoodStampsInThePast12Months
+"Population: With Food Stamps in The Past 12 Months, Adult Correctional Facilities",Count_Person_WithFoodStampsInThePast12Months_ResidesInAdultCorrectionalFacilities
+"Population: With Food Stamps in The Past 12 Months, College or University Student Housing",Count_Person_WithFoodStampsInThePast12Months_ResidesInCollegeOrUniversityStudentHousing
+"Population: With Food Stamps in The Past 12 Months, Group Quarters",Count_Person_WithFoodStampsInThePast12Months_ResidesInGroupQuarters
+"Population: With Food Stamps in The Past 12 Months, Institutionalized Group Quarters",Count_Person_WithFoodStampsInThePast12Months_ResidesInInstitutionalizedGroupQuarters
+"Population: With Food Stamps in The Past 12 Months, Juvenile Facilities",Count_Person_WithFoodStampsInThePast12Months_ResidesInJuvenileFacilities
+"Population: With Food Stamps in The Past 12 Months, Noninstitutionalized Group Quarters",Count_Person_WithFoodStampsInThePast12Months_ResidesInNoninstitutionalizedGroupQuarters
+"Population: With Food Stamps in The Past 12 Months, Nursing Facilities",Count_Person_WithFoodStampsInThePast12Months_ResidesInNursingFacilities
+Population: With One Type of Health Insurance,Count_Person_WithOneTypeOfHealthInsurance
+Population: With Public Health Insurance Coverage,Count_Person_WithPublicCoverage
+"Population: Within EU28 And Not A Citizen, Female",Count_Person_WithinEU28AndNotACitizen_Female
+"Population: Within EU28 And Not A Citizen, Male",Count_Person_WithinEU28AndNotACitizen_Male
+"Population: Female, Worker",Count_Person_Workers_Female
+"Population: Male, Worker",Count_Person_Workers_Male
+Number of annual pregnancies,Count_PregnancyEvent
+Total number of pregnant women registered for Antenatal Care,Count_PregnantWomen_RegisteredForAntenatalCare
+Number of pregnant women registered for Antenatal Care within first trimester,Count_PregnantWomen_RegisteredForAntenatalCareWithinFirstTrimester
+Number of Major Surgeries,Count_SurgicalProcedure_Major
+Number of Minor Surgeries,Count_SurgicalProcedure_Minor
+Fertility Rate,FertilityRate_Person_Female
+Population Growth Rate,GrowthRate_Count_Person
+Population Change,IncrementalCount_Person
+Life Expectancy,LifeExpectancy_Person
+"Life expectancy at birth, female (years)",LifeExpectancy_Person_Female
+Life Expectancy: Male,LifeExpectancy_Person_Male
+"Mean Earnings: Female, With Earnings",Mean_Earnings_Person_Female
+"Mean Earnings: Male, With Earnings",Mean_Earnings_Person_Male
+Mean Income of Household: With Income,Mean_Income_Household
+"Mean Income of Household: Family Household, With Income",Mean_Income_Household_FamilyHousehold
+"Mean Income of Household: Married Couple Family Household, With Income",Mean_Income_Household_MarriedCoupleFamilyHousehold
+"Mean Income of Household: Nonfamily Household, With Income",Mean_Income_Household_NonfamilyHousehold
+Mean Wages Daily,Mean_WagesDaily_Worker
+Mean Wages Daily: Female,Mean_WagesDaily_Worker_Female
+Mean Wages Daily: Male,Mean_WagesDaily_Worker_Male
+"Mean Wages Daily: Female, Rural",Mean_WagesDaily_Worker_Rural_Female
+"Mean Wages Daily: Male, Rural",Mean_WagesDaily_Worker_Rural_Male
+"Mean Wages Daily: Female, Urban",Mean_WagesDaily_Worker_Urban_Female
+"Mean Wages Daily: Male, Urban",Mean_WagesDaily_Worker_Urban_Male
+Mean Monthly Wages,Mean_WagesMonthly_Worker
+Mean Wages Monthly: Female,Mean_WagesMonthly_Worker_Female
+Mean Wages Monthly: Male,Mean_WagesMonthly_Worker_Male
+"Mean Wages Monthly: Female, Rural",Mean_WagesMonthly_Worker_Rural_Female
+"Mean Wages Monthly: Male, Rural",Mean_WagesMonthly_Worker_Rural_Male
+"Mean Wages Monthly: Female, Urban",Mean_WagesMonthly_Worker_Urban_Female
+"Mean Wages Monthly: Male, Urban",Mean_WagesMonthly_Worker_Urban_Male
+Median Age,Median_Age_Person
+Median Age: American Indian or Alaska Native Alone,Median_Age_Person_AmericanIndianOrAlaskaNativeAlone
+Median Age: Asian Alone,Median_Age_Person_AsianAlone
+Median Age: Black or African American Alone,Median_Age_Person_BlackOrAfricanAmericanAlone
+Median Age: Female,Median_Age_Person_Female
+"Median Age: Female, American Indian or Alaska Native Alone",Median_Age_Person_Female_AmericanIndianOrAlaskaNativeAlone
+"Median Age: Female, Asian Alone",Median_Age_Person_Female_AsianAlone
+"Median Age: Female, Black or African American Alone",Median_Age_Person_Female_BlackOrAfricanAmericanAlone
+"Median Age: Female, Divorced in The Past 12 Months",Median_Age_Person_Female_DivorcedInThePast12Months
+"Median Age: Female, Foreign Born",Median_Age_Person_Female_ForeignBorn
+"Median Age: Female, Hispanic or Latino",Median_Age_Person_Female_HispanicOrLatino
+"Median Age: Female, Married in The Past 12 Months",Median_Age_Person_Female_MarriedInThePast12Months
+"Median Age: Female, Native",Median_Age_Person_Female_Native
+"Median Age: Female, Native Hawaiian or Other Pacific Islander Alone",Median_Age_Person_Female_NativeHawaiianOrOtherPacificIslanderAlone
+"Median Age: Female, Some Other Race Alone",Median_Age_Person_Female_SomeOtherRaceAlone
+"Median Age: Female, Two or More Races",Median_Age_Person_Female_TwoOrMoreRaces
+"Median Age: Female, White Alone",Median_Age_Person_Female_WhiteAlone
+"Median Age: Female, White Alone Not Hispanic or Latino",Median_Age_Person_Female_WhiteAloneNotHispanicOrLatino
+Median Age: Hispanic or Latino,Median_Age_Person_HispanicOrLatino
+Median Age: Male,Median_Age_Person_Male
+"Median Age: Male, American Indian or Alaska Native Alone",Median_Age_Person_Male_AmericanIndianOrAlaskaNativeAlone
+"Median Age: Male, Asian Alone",Median_Age_Person_Male_AsianAlone
+"Median Age: Male, Black or African American Alone",Median_Age_Person_Male_BlackOrAfricanAmericanAlone
+"Median Age: Male, Divorced in The Past 12 Months",Median_Age_Person_Male_DivorcedInThePast12Months
+"Median Age: Male, Foreign Born",Median_Age_Person_Male_ForeignBorn
+"Median Age: Male, Hispanic or Latino",Median_Age_Person_Male_HispanicOrLatino
+"Median Age: Male, Married in The Past 12 Months",Median_Age_Person_Male_MarriedInThePast12Months
+"Median Age: Male, Native",Median_Age_Person_Male_Native
+"Median Age: Male, Native Hawaiian or Other Pacific Islander Alone",Median_Age_Person_Male_NativeHawaiianOrOtherPacificIslanderAlone
+"Median Age: Male, Some Other Race Alone",Median_Age_Person_Male_SomeOtherRaceAlone
+"Median Age: Male, Two or More Races",Median_Age_Person_Male_TwoOrMoreRaces
+"Median Age: Male, White Alone",Median_Age_Person_Male_WhiteAlone
+"Median Age: Male, White Alone Not Hispanic or Latino",Median_Age_Person_Male_WhiteAloneNotHispanicOrLatino
+Median Age: Native Hawaiian or Other Pacific Islander Alone,Median_Age_Person_NativeHawaiianOrOtherPacificIslanderAlone
+Median Age: Some Other Race Alone,Median_Age_Person_SomeOtherRaceAlone
+Median Age: Two or More Races,Median_Age_Person_TwoOrMoreRaces
+Median Age: White Alone,Median_Age_Person_WhiteAlone
+Median Age: White Alone Not Hispanic or Latino,Median_Age_Person_WhiteAloneNotHispanicOrLatino
+Median Earnings: With Earnings,Median_Earnings_Person
+"Median Earnings: Female, With Earnings",Median_Earnings_Person_Female
+"Median Earnings: Male, With Earnings",Median_Earnings_Person_Male
+Median Income of Household,Median_Income_Household
+"Median Income of Household: Family Household, With Income",Median_Income_Household_FamilyHousehold
+"Median Income of Household: Married Couple Family Household, With Income",Median_Income_Household_MarriedCoupleFamilyHousehold
+Median Income of Household: No Health Insurance,Median_Income_Household_NoHealthInsurance
+"Median Income of Household: Nonfamily Household, With Income",Median_Income_Household_NonfamilyHousehold
+Median Income of Household: With Food Stamps in The Past 12 Months,Median_Income_Household_WithFoodStampsInThePast12Months
+Median Income of Household: Without Food Stamps in The Past 12 Months,Median_Income_Household_WithoutFoodStampsInThePast12Months
+"Percentage 0 Minutes, Health Enhancing Physical Activity Among Population",Percent_0Minutes_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage 0 Minutes, Non Work Related Physical Activity Among Normal Weight Population",Percent_0Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Normalweight
+"Percentage 0 Minutes, Non Work Related Physical Activity Among Obesity Population",Percent_0Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Obesity
+"Percentage 0 Minutes, Non Work Related Physical Activity Among Overweight Population",Percent_0Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Overweight
+"Percentage 0 Minutes, Non Work Related Physical Activity Among Pre Obese Population",Percent_0Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_PreObese
+"Percentage 0 Minutes, Non Work Related Physical Activity Among Underweight Population",Percent_0Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Underweight
+"Percentage 150 Or More Minutes, Health Enhancing Physical Activity Among Population",Percent_150OrMoreMinutes_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage 150 Or More Minutes, Non Work Related Physical Activity Among Normal Weight Population",Percent_150OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Normalweight
+"Percentage 150 Or More Minutes, Non Work Related Physical Activity Among Obesity Population",Percent_150OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Obesity
+"Percentage 150 Or More Minutes, Non Work Related Physical Activity Among Overweight Population",Percent_150OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Overweight
+"Percentage 150 Or More Minutes, Non Work Related Physical Activity Among Pre Obese Population",Percent_150OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_PreObese
+"Percentage 150 Or More Minutes, Non Work Related Physical Activity Among Underweight Population",Percent_150OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Underweight
+"Percentage 150 To 299 Minutes, Health Enhancing Physical Activity Among Population",Percent_150To299Minutes_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage 150 To 299 Minutes, Non Work Related Physical Activity Among Normal Weight Population",Percent_150To299Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Normalweight
+"Percentage 150 To 299 Minutes, Non Work Related Physical Activity Among Obesity Population",Percent_150To299Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Obesity
+"Percentage 150 To 299 Minutes, Non Work Related Physical Activity Among Overweight Population",Percent_150To299Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Overweight
+"Percentage 150 To 299 Minutes, Non Work Related Physical Activity Among Pre Obese Population",Percent_150To299Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_PreObese
+"Percentage 150 To 299 Minutes, Non Work Related Physical Activity Among Underweight Population",Percent_150To299Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Underweight
+"Percentage 1 To 149 Minutes, Health Enhancing Physical Activity Among Population",Percent_1To149Minutes_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage 1 To 149 Minutes, Non Work Related Physical Activity Among Normal Weight Population",Percent_1To149Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Normalweight
+"Percentage 1 To 149 Minutes, Non Work Related Physical Activity Among Obesity Population",Percent_1To149Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Obesity
+"Percentage 1 To 149 Minutes, Non Work Related Physical Activity Among Overweight Population",Percent_1To149Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Overweight
+"Percentage 1 To 149 Minutes, Non Work Related Physical Activity Among Pre Obese Population",Percent_1To149Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_PreObese
+"Percentage 1 To 149 Minutes, Non Work Related Physical Activity Among Underweight Population",Percent_1To149Minutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Underweight
+"Percentage 300 Or More Minutes, Health Enhancing Physical Activity Among Population",Percent_300OrMoreMinutes_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage 300 Or More Minutes, Non Work Related Physical Activity Among Normal Weight Population",Percent_300OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Normalweight
+"Percentage 300 Or More Minutes, Non Work Related Physical Activity Among Obesity Population",Percent_300OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Obesity
+"Percentage 300 Or More Minutes, Non Work Related Physical Activity Among Overweight Population",Percent_300OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Overweight
+"Percentage 300 Or More Minutes, Non Work Related Physical Activity Among Pre Obese Population",Percent_300OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_PreObese
+"Percentage 300 Or More Minutes, Non Work Related Physical Activity Among Underweight Population",Percent_300OrMoreMinutes_NonWorkRelatedPhysicalActivity_In_Count_Person_Underweight
+"Percentage Aerobic Or Muscle Strengthening, Health Enhancing Physical Activity Among Population",Percent_AerobicOrMuscleStrengthening_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage Aerobic Sports, Non Work Related Physical Activity Among Population",Percent_AerobicSports_NonWorkRelatedPhysicalActivity_In_Count_Person
+"Percentage Aerobic, Health Enhancing Physical Activity Among Population",Percent_Aerobic_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage At Least Once a Day, Consumption Of Fruits Among Population",Percent_AtLeastOnceADay_ConsumptionOfFruits_In_Count_Person
+"Percentage At Least Once a Day, Consumption Of Fruits Among Normalweight Population",Percent_AtLeastOnceADay_ConsumptionOfFruits_In_Count_Person_Normalweight
+"Percentage At Least Once a Day, Consumption Of Fruits Among Obesity Population",Percent_AtLeastOnceADay_ConsumptionOfFruits_In_Count_Person_Obesity
+"Percentage At Least Once a Day, Consumption Of Fruits Among Overweight Population",Percent_AtLeastOnceADay_ConsumptionOfFruits_In_Count_Person_Overweight
+"Percentage At Least Once a Day, Consumption Of Fruits Among Pre Obese Population",Percent_AtLeastOnceADay_ConsumptionOfFruits_In_Count_Person_PreObese
+"Percentage At Least Once a Day, Consumption Of Fruits Among Underweight Population",Percent_AtLeastOnceADay_ConsumptionOfFruits_In_Count_Person_Underweight
+"Percentage At Least Once a Day, Consumption Of Pure Fruit Or Consumption Of Vegetable Juice Among Population",Percent_AtLeastOnceADay_ConsumptionOfPureFruitOrConsumptionOfVegetableJuice_In_Count_Person
+"Percentage At Least Once a Day, Consumption Of Sugar Sweetened Soft Drinks Among Population",Percent_AtLeastOnceADay_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person
+"Percentage At Least Once a Day, Consumption Of Sugar Sweetened Soft Drinks Among Normalweight Population",Percent_AtLeastOnceADay_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Normalweight
+"Percentage At Least Once a Day, Consumption Of Sugar Sweetened Soft Drinks Among Obesity Population",Percent_AtLeastOnceADay_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Obesity
+"Percentage At Least Once a Day, Consumption Of Sugar Sweetened Soft Drinks Among Overweight Population",Percent_AtLeastOnceADay_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Overweight
+"Percentage At Least Once a Day, Consumption Of Sugar Sweetened Soft Drinks Among Pre Obese Population",Percent_AtLeastOnceADay_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_PreObese
+"Percentage At Least Once a Day, Consumption Of Sugar Sweetened Soft Drinks Among Underweight Population",Percent_AtLeastOnceADay_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Underweight
+"Percentage At Least Once a Day, Consumption Of Vegetables Among Population",Percent_AtLeastOnceADay_ConsumptionOfVegetables_In_Count_Person
+"Percentage At Least Once a Day, Consumption Of Vegetables Among Normalweight Population",Percent_AtLeastOnceADay_ConsumptionOfVegetables_In_Count_Person_Normalweight
+"Percentage At Least Once a Day, Consumption Of Vegetables Among Obesity Population",Percent_AtLeastOnceADay_ConsumptionOfVegetables_In_Count_Person_Obesity
+"Percentage At Least Once a Day, Consumption Of Vegetables Among Overweight Population",Percent_AtLeastOnceADay_ConsumptionOfVegetables_In_Count_Person_Overweight
+"Percentage At Least Once a Day, Consumption Of Vegetables Among Pre Obese Population",Percent_AtLeastOnceADay_ConsumptionOfVegetables_In_Count_Person_PreObese
+"Percentage At Least Once a Day, Consumption Of Vegetables Among Underweight Population",Percent_AtLeastOnceADay_ConsumptionOfVegetables_In_Count_Person_Underweight
+"Percentage At Least Once A Week, Binge Drinking Among Population",Percent_AtLeastOnceAWeek_BingeDrinking_In_Count_Person
+"Percentage At Least Once A Week, Exposure To Tobacco Smoke Among Population",Percent_AtLeastOnceAWeek_ExposureToTobaccoSmoke_In_Count_Person
+"Percentage At Least One Hour Per Day, Exposure To Tobacco Smoke Among Population",Percent_AtLeastOneHourPerDay_ExposureToTobaccoSmoke_In_Count_Person
+"Percentage At Least Twice a Day, Consumption Of Fruits Among Population",Percent_AtLeastTwiceADay_ConsumptionOfFruits_In_Count_Person
+"Percentage At Least Twice a Day, Consumption Of Vegetables Among Population",Percent_AtLeastTwiceADay_ConsumptionOfVegetables_In_Count_Person
+"Percentage Cycling, Non Work Related Physical Activity Among Population",Percent_Cycling_NonWorkRelatedPhysicalActivity_In_Count_Person
+"Percentage Daily, Alcohol Consumption Among Population",Percent_Daily_AlcoholConsumption_In_Count_Person
+"Percentage Daily, Binge Drinking Among Population",Percent_Daily_BingeDrinking_In_Count_Person
+"Percentage Daily, Tobacco Smoking Among Population",Percent_Daily_TobaccoSmoking_TobaccoProducts_In_Count_Person
+"Percentage Every Month, Alcohol Consumption Among Population",Percent_EveryMonth_AlcoholConsumption_In_Count_Person
+"Percentage Every Month, Binge Drinking Among Population",Percent_EveryMonth_BingeDrinking_In_Count_Person
+"Percentage Every Week, Alcohol Consumption Among Population",Percent_EveryWeek_AlcoholConsumption_In_Count_Person
+"Percentage Every Week, Binge Drinking Among Population",Percent_EveryWeek_BingeDrinking_In_Count_Person
+"Percentage Former Smoker, Daily Among Population",Percent_FormerSmoker_Daily_TobaccoProducts_In_Count_Person
+"Percentage Former Smoker, E Cigarettes Among Population",Percent_FormerSmoker_Formerly_ECigarettes_In_Count_Person
+"Percentage From 1 To 3 Times a Week, Consumption Of Fruits Among Population",Percent_From1To3TimesAWeek_ConsumptionOfFruits_In_Count_Person
+"Percentage From 1 To 3 Times a Week, Consumption Of Fruits Among Normalweight Population",Percent_From1To3TimesAWeek_ConsumptionOfFruits_In_Count_Person_Normalweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Fruits Among Obesity Population",Percent_From1To3TimesAWeek_ConsumptionOfFruits_In_Count_Person_Obesity
+"Percentage From 1 To 3 Times a Week, Consumption Of Fruits Among Overweight Population",Percent_From1To3TimesAWeek_ConsumptionOfFruits_In_Count_Person_Overweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Fruits Among Pre Obese Population",Percent_From1To3TimesAWeek_ConsumptionOfFruits_In_Count_Person_PreObese
+"Percentage From 1 To 3 Times a Week, Consumption Of Fruits Among Underweight Population",Percent_From1To3TimesAWeek_ConsumptionOfFruits_In_Count_Person_Underweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Pure Fruit Or Consumption Of Vegetable Juice Among Population",Percent_From1To3TimesAWeek_ConsumptionOfPureFruitOrConsumptionOfVegetableJuice_In_Count_Person
+"Percentage From 1 To 3 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Population",Percent_From1To3TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person
+"Percentage From 1 To 3 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Normalweight Population",Percent_From1To3TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Normalweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Obesity Population",Percent_From1To3TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Obesity
+"Percentage From 1 To 3 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Overweight Population",Percent_From1To3TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Overweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Pre Obese Population",Percent_From1To3TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_PreObese
+"Percentage From 1 To 3 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Underweight Population",Percent_From1To3TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Underweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Vegetables Among Population",Percent_From1To3TimesAWeek_ConsumptionOfVegetables_In_Count_Person
+"Percentage From 1 To 3 Times a Week, Consumption Of Vegetables Among Normalweight Population",Percent_From1To3TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Normalweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Vegetables Among Obesity Population",Percent_From1To3TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Obesity
+"Percentage From 1 To 3 Times a Week, Consumption Of Vegetables Among Overweight Population",Percent_From1To3TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Overweight
+"Percentage From 1 To 3 Times a Week, Consumption Of Vegetables Among Pre Obese Population",Percent_From1To3TimesAWeek_ConsumptionOfVegetables_In_Count_Person_PreObese
+"Percentage From 1 To 3 Times a Week, Consumption Of Vegetables Among Underweight Population",Percent_From1To3TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Underweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Fruits Among Population",Percent_From4To6TimesAWeek_ConsumptionOfFruits_In_Count_Person
+"Percentage From 4 To 6 Times a Week, Consumption Of Fruits Among Normalweight Population",Percent_From4To6TimesAWeek_ConsumptionOfFruits_In_Count_Person_Normalweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Fruits Among Obesity Population",Percent_From4To6TimesAWeek_ConsumptionOfFruits_In_Count_Person_Obesity
+"Percentage From 4 To 6 Times a Week, Consumption Of Fruits Among Overweight Population",Percent_From4To6TimesAWeek_ConsumptionOfFruits_In_Count_Person_Overweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Fruits Among Pre Obese Population",Percent_From4To6TimesAWeek_ConsumptionOfFruits_In_Count_Person_PreObese
+"Percentage From 4 To 6 Times a Week, Consumption Of Fruits Among Underweight Population",Percent_From4To6TimesAWeek_ConsumptionOfFruits_In_Count_Person_Underweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Pure Fruit Or Consumption Of Vegetable Juice Among Population",Percent_From4To6TimesAWeek_ConsumptionOfPureFruitOrConsumptionOfVegetableJuice_In_Count_Person
+"Percentage From 4 To 6 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Population",Percent_From4To6TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person
+"Percentage From 4 To 6 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Normalweight Population",Percent_From4To6TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Normalweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Obesity Population",Percent_From4To6TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Obesity
+"Percentage From 4 To 6 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Overweight Population",Percent_From4To6TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Overweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Pre Obese Population",Percent_From4To6TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_PreObese
+"Percentage From 4 To 6 Times a Week, Consumption Of Sugar Sweetened Soft Drinks Among Underweight Population",Percent_From4To6TimesAWeek_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Underweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Vegetables Among Population",Percent_From4To6TimesAWeek_ConsumptionOfVegetables_In_Count_Person
+"Percentage From 4 To 6 Times a Week, Consumption Of Vegetables Among Normalweight Population",Percent_From4To6TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Normalweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Vegetables Among Obesity Population",Percent_From4To6TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Obesity
+"Percentage From 4 To 6 Times a Week, Consumption Of Vegetables Among Overweight Population",Percent_From4To6TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Overweight
+"Percentage From 4 To 6 Times a Week, Consumption Of Vegetables Among Pre Obese Population",Percent_From4To6TimesAWeek_ConsumptionOfVegetables_In_Count_Person_PreObese
+"Percentage From 4 To 6 Times a Week, Consumption Of Vegetables Among Underweight Population",Percent_From4To6TimesAWeek_ConsumptionOfVegetables_In_Count_Person_Underweight
+Percentage Hazardous Alcohol Consumption Among Population,Percent_HazardousAlcoholConsumption_In_Count_Person
+Percentage Hazardous Alcohol Consumption Among Female Population,Percent_HazardousAlcoholConsumption_In_Count_Person_Female
+Percentage Hazardous Alcohol Consumption Among Income Of 0 To 20 Percentile Population,Percent_HazardousAlcoholConsumption_In_Count_Person_IncomeOf0To20Percentile
+Percentage Hazardous Alcohol Consumption Among Income Of 20 To 40 Percentile Population,Percent_HazardousAlcoholConsumption_In_Count_Person_IncomeOf20To40Percentile
+Percentage Hazardous Alcohol Consumption Among Income Of 40 To 60 Percentile Population,Percent_HazardousAlcoholConsumption_In_Count_Person_IncomeOf40To60Percentile
+Percentage Hazardous Alcohol Consumption Among Income Of 60 To 80 Percentile Population,Percent_HazardousAlcoholConsumption_In_Count_Person_IncomeOf60To80Percentile
+Percentage Hazardous Alcohol Consumption Among Income Of 80 To 100 Percentile Population,Percent_HazardousAlcoholConsumption_In_Count_Person_IncomeOf80To100Percentile
+Percentage Hazardous Alcohol Consumption Among Less Than Primary Education Or Primary Education Or Lower Secondary Education Population,Percent_HazardousAlcoholConsumption_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Percentage Hazardous Alcohol Consumption Among Male Population,Percent_HazardousAlcoholConsumption_In_Count_Person_Male
+Percentage Hazardous Alcohol Consumption Among Rural Population,Percent_HazardousAlcoholConsumption_In_Count_Person_Rural
+Percentage Hazardous Alcohol Consumption Among Semi Urban Population,Percent_HazardousAlcoholConsumption_In_Count_Person_SemiUrban
+Percentage Hazardous Alcohol Consumption Among Tertiary Education Population,Percent_HazardousAlcoholConsumption_In_Count_Person_TertiaryEducation
+Percentage Hazardous Alcohol Consumption Among Upper Secondary Education Or Post Secondary Non Tertiary Education Population,Percent_HazardousAlcoholConsumption_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Percentage Hazardous Alcohol Consumption Among Urban Population,Percent_HazardousAlcoholConsumption_In_Count_Person_Urban
+"Percentage Less Than Once A Month, Alcohol Consumption Among Population",Percent_LessThanOnceAMonth_AlcoholConsumption_In_Count_Person
+"Percentage Less Than Once A Month, Binge Drinking Among Population",Percent_LessThanOnceAMonth_BingeDrinking_In_Count_Person
+"Percentage Less Than Once a Week, Consumption Of Fruits Among Population",Percent_LessThanOnceAWeek_ConsumptionOfFruits_In_Count_Person
+"Percentage Less Than Once a Week, Consumption Of Vegetables Among Population",Percent_LessThanOnceAWeek_ConsumptionOfVegetables_In_Count_Person
+"Percentage Less Than Once A Week, Exposure To Tobacco Smoke Among Population",Percent_LessThanOnceAWeek_ExposureToTobaccoSmoke_In_Count_Person
+"Percentage Less Than One Hour Per Day, Exposure To Tobacco Smoke Among Population",Percent_LessThanOneHourPerDay_ExposureToTobaccoSmoke_In_Count_Person
+"Percentage Less Than Primary Education Or Primary Education Or Lower Secondary Education, Physical Activity Among Population",Percent_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation_PhysicalActivity_In_Count_Person
+"Percentage Muscle Strengthening, Health Enhancing Physical Activity Among Population",Percent_MuscleStrengthening_HealthEnhancingPhysicalActivity_In_Count_Person
+"Percentage Muscle Strengthening, Non Work Related Physical Activity Among Population",Percent_MuscleStrengthening_NonWorkRelatedPhysicalActivity_In_Count_Person
+"Percentage Never Or Not In The Last 12 Months, Alcohol Consumption Among Population",Percent_NeverOrNotInTheLast12Months_AlcoholConsumption_In_Count_Person
+"Percentage Never Or Not In The Last 12 Months, Binge Drinking Among Population",Percent_NeverOrNotInTheLast12Months_BingeDrinking_In_Count_Person
+"Percentage Never Or Occasional, Binge Drinking Among Population",Percent_NeverOrOccasional_BingeDrinking_In_Count_Person
+"Percentage Never Or Occasionally, Consumption Of Fruits Among Population",Percent_NeverOrOccasionally_ConsumptionOfFruits_In_Count_Person
+"Percentage Never Or Occasionally, Consumption Of Fruits Among Normalweight Population",Percent_NeverOrOccasionally_ConsumptionOfFruits_In_Count_Person_Normalweight
+"Percentage Never Or Occasionally, Consumption Of Fruits Among Obesity Population",Percent_NeverOrOccasionally_ConsumptionOfFruits_In_Count_Person_Obesity
+"Percentage Never Or Occasionally, Consumption Of Fruits Among Overweight Population",Percent_NeverOrOccasionally_ConsumptionOfFruits_In_Count_Person_Overweight
+"Percentage Never Or Occasionally, Consumption Of Fruits Among Pre Obese Population",Percent_NeverOrOccasionally_ConsumptionOfFruits_In_Count_Person_PreObese
+"Percentage Never Or Occasionally, Consumption Of Fruits Among Underweight Population",Percent_NeverOrOccasionally_ConsumptionOfFruits_In_Count_Person_Underweight
+"Percentage Never Or Occasionally, Consumption Of Pure Fruit Or Consumption Of Vegetable Juice Among Population",Percent_NeverOrOccasionally_ConsumptionOfPureFruitOrConsumptionOfVegetableJuice_In_Count_Person
+"Percentage Never Or Occasionally, Consumption Of Sugar Sweetened Soft Drinks Among Population",Percent_NeverOrOccasionally_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person
+"Percentage Never Or Occasionally, Consumption Of Sugar Sweetened Soft Drinks Among Normalweight Population",Percent_NeverOrOccasionally_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Normalweight
+"Percentage Never Or Occasionally, Consumption Of Sugar Sweetened Soft Drinks Among Obesity Population",Percent_NeverOrOccasionally_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Obesity
+"Percentage Never Or Occasionally, Consumption Of Sugar Sweetened Soft Drinks Among Overweight Population",Percent_NeverOrOccasionally_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Overweight
+"Percentage Never Or Occasionally, Consumption Of Sugar Sweetened Soft Drinks Among Pre Obese Population",Percent_NeverOrOccasionally_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_PreObese
+"Percentage Never Or Occasionally, Consumption Of Sugar Sweetened Soft Drinks Among Underweight Population",Percent_NeverOrOccasionally_ConsumptionOfSugarSweetenedSoftDrinks_In_Count_Person_Underweight
+"Percentage Never Or Occasionally, Consumption Of Vegetables Among Population",Percent_NeverOrOccasionally_ConsumptionOfVegetables_In_Count_Person
+"Percentage Never Or Occasionally, Consumption Of Vegetables Among Normalweight Population",Percent_NeverOrOccasionally_ConsumptionOfVegetables_In_Count_Person_Normalweight
+"Percentage Never Or Occasionally, Consumption Of Vegetables Among Obesity Population",Percent_NeverOrOccasionally_ConsumptionOfVegetables_In_Count_Person_Obesity
+"Percentage Never Or Occasionally, Consumption Of Vegetables Among Overweight Population",Percent_NeverOrOccasionally_ConsumptionOfVegetables_In_Count_Person_Overweight
+"Percentage Never Or Occasionally, Consumption Of Vegetables Among Pre Obese Population",Percent_NeverOrOccasionally_ConsumptionOfVegetables_In_Count_Person_PreObese
+"Percentage Never Or Occasionally, Consumption Of Vegetables Among Underweight Population",Percent_NeverOrOccasionally_ConsumptionOfVegetables_In_Count_Person_Underweight
+"Percentage Never, Alcohol Consumption Among Population",Percent_Never_AlcoholConsumption_In_Count_Person
+"Percentage Never, Binge Drinking Among Population",Percent_Never_BingeDrinking_In_Count_Person
+"Percentage Never, Consumption Of Fruits Among Population",Percent_Never_ConsumptionOfFruits_In_Count_Person
+"Percentage Never, Consumption Of Vegetables Among Population",Percent_Never_ConsumptionOfVegetables_In_Count_Person
+Percentage Non Smoker Among Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person
+Percentage Non Smoker Among Citizen Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_Citizen
+Percentage Non Smoker Among Citizen Outside EU28 Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_CitizenOutsideEU28
+Percentage Non Smoker Among Female Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_Female
+Percentage Non Smoker Among Foreign Born Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_ForeignBorn
+Percentage Non Smoker Among Foreign Born Outside EU28 Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_ForeignBornOutsideEU28
+Percentage Non Smoker Among Foreign Born Within EU28 Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_ForeignBornWithinEU28
+Percentage Non Smoker Among Income Of 0 To 20 Percentile Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_IncomeOf0To20Percentile
+Percentage Non Smoker Among Income Of 20 To 40 Percentile Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_IncomeOf20To40Percentile
+Percentage Non Smoker Among Income Of 40 To 60 Percentile Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_IncomeOf40To60Percentile
+Percentage Non Smoker Among Income Of 60 To 80 Percentile Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_IncomeOf60To80Percentile
+Percentage Non Smoker Among Income Of 80 To 100 Percentile Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_IncomeOf80To100Percentile
+Percentage Non Smoker Among Less Than Primary Education Or Primary Education Or Lower Secondary Education Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Percentage Non Smoker Among Male Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_Male
+Percentage Non Smoker Among Native Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_Native
+Percentage Non Smoker Among Not A Citizen Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_NotACitizen
+Percentage Non Smoker Among Rural Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_Rural
+Percentage Non Smoker Among Semi Urban Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_SemiUrban
+Percentage Non Smoker Among Tertiary Education Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_TertiaryEducation
+Percentage Non Smoker Among Upper Secondary Education Or Post Secondary Non Tertiary Education Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Percentage Non Smoker Among Urban Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_Urban
+Percentage Non Smoker Among Within EU28 And Not A Citizen Population,Percent_NonSmoker_TobaccoProducts_In_Count_Person_WithinEU28AndNotACitizen
+Population: Percentage Normal Weight,Percent_Normalweight_In_Count_Person
+Population: Percentage Normal Weight Among Citizen,Percent_Normalweight_In_Count_Person_Citizen
+Population: Percentage Normal Weight Among Citizen Outside EU28,Percent_Normalweight_In_Count_Person_CitizenOutsideEU28
+Population: Percentage Normal Weight Among Female,Percent_Normalweight_In_Count_Person_Female
+Population: Percentage Normal Weight Among Foreign Born,Percent_Normalweight_In_Count_Person_ForeignBorn
+Population: Percentage Normal Weight Among Foreign Born Outside EU28,Percent_Normalweight_In_Count_Person_ForeignBornOutsideEU28
+Population: Percentage Normal Weight Among Foreign Born Within EU28,Percent_Normalweight_In_Count_Person_ForeignBornWithinEU28
+Population: Percentage Normal Weight Among Income Of 0 To 20 Percentile,Percent_Normalweight_In_Count_Person_IncomeOf0To20Percentile
+Population: Percentage Normal Weight Among Income Of 20 To 40 Percentile,Percent_Normalweight_In_Count_Person_IncomeOf20To40Percentile
+Population: Percentage Normal Weight Among Income Of 40 To 60 Percentile,Percent_Normalweight_In_Count_Person_IncomeOf40To60Percentile
+Population: Percentage Normal Weight Among Income Of 60 To 80 Percentile,Percent_Normalweight_In_Count_Person_IncomeOf60To80Percentile
+Population: Percentage Normal Weight Among Income Of 80 To 100 Percentile,Percent_Normalweight_In_Count_Person_IncomeOf80To100Percentile
+Population: Percentage Normal Weight Among Less Than Primary Education Or Primary Education Or Lower Secondary Education,Percent_Normalweight_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Population: Percentage Normal Weight Among Limited Activity Limitation,Percent_Normalweight_In_Count_Person_LimitedActivityLimitation
+Population: Percentage Normal Weight Among Male,Percent_Normalweight_In_Count_Person_Male
+Population: Percentage Normal Weight Among Moderate Activity Limitation,Percent_Normalweight_In_Count_Person_ModerateActivityLimitation
+Population: Percentage Normal Weight Among Native,Percent_Normalweight_In_Count_Person_Native
+Population: Percentage Normal Weight Among No Activity Limitation,Percent_Normalweight_In_Count_Person_NoActivityLimitation
+Population: Percentage Normal Weight Among Not A Citizen,Percent_Normalweight_In_Count_Person_NotACitizen
+Population: Percentage Normal Weight Among Rural,Percent_Normalweight_In_Count_Person_Rural
+Population: Percentage Normal Weight Among Semi Urban,Percent_Normalweight_In_Count_Person_SemiUrban
+Population: Percentage Normal Weight Among Severe Activity Limitation,Percent_Normalweight_In_Count_Person_SevereActivityLimitation
+Population: Percentage Normal Weight Among Tertiary Education,Percent_Normalweight_In_Count_Person_TertiaryEducation
+Population: Percentage Normal Weight Among Tertiary Education Stage One Or Tertiary Education Stage Two,Percent_Normalweight_In_Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo
+Population: Percentage Normal Weight Among Upper Secondary Education Or Post Secondary Non Tertiary Education,Percent_Normalweight_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Population: Percentage Normal Weight Among Urban,Percent_Normalweight_In_Count_Person_Urban
+Population: Percentage Normal Weight Among Within EU28 And Not A Citizen,Percent_Normalweight_In_Count_Person_WithinEU28AndNotACitizen
+"Percentage Not In The Last 12 Months, Alcohol Consumption Among Population",Percent_NotInTheLast12Months_AlcoholConsumption_In_Count_Person
+Population: Percentage Obese,Percent_Obesity_In_Count_Person
+Population: Percentage Obesity Among Citizen,Percent_Obesity_In_Count_Person_Citizen
+Population: Percentage Obesity Among Citizen Outside EU28,Percent_Obesity_In_Count_Person_CitizenOutsideEU28
+Population: Percentage Obesity Among Female,Percent_Obesity_In_Count_Person_Female
+Population: Percentage Obesity Among Foreign Born,Percent_Obesity_In_Count_Person_ForeignBorn
+Population: Percentage Obesity Among Foreign Born Outside EU28,Percent_Obesity_In_Count_Person_ForeignBornOutsideEU28
+Population: Percentage Obesity Among Foreign Born Within EU28,Percent_Obesity_In_Count_Person_ForeignBornWithinEU28
+Population: Percentage Obesity Among Income Of 0 To 20 Percentile,Percent_Obesity_In_Count_Person_IncomeOf0To20Percentile
+Population: Percentage Obesity Among Income Of 20 To 40 Percentile,Percent_Obesity_In_Count_Person_IncomeOf20To40Percentile
+Population: Percentage Obesity Among Income Of 40 To 60 Percentile,Percent_Obesity_In_Count_Person_IncomeOf40To60Percentile
+Population: Percentage Obesity Among Income Of 60 To 80 Percentile,Percent_Obesity_In_Count_Person_IncomeOf60To80Percentile
+Population: Percentage Obesity Among Income Of 80 To 100 Percentile,Percent_Obesity_In_Count_Person_IncomeOf80To100Percentile
+Population: Percentage Obesity Among Less Than Primary Education Or Primary Education Or Lower Secondary Education,Percent_Obesity_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Population: Percentage Obesity Among Limited Activity Limitation,Percent_Obesity_In_Count_Person_LimitedActivityLimitation
+Population: Percentage Obesity Among Male,Percent_Obesity_In_Count_Person_Male
+Population: Percentage Obesity Among Moderate Activity Limitation,Percent_Obesity_In_Count_Person_ModerateActivityLimitation
+Population: Percentage Obesity Among Native,Percent_Obesity_In_Count_Person_Native
+Population: Percentage Obesity Among No Activity Limitation,Percent_Obesity_In_Count_Person_NoActivityLimitation
+Population: Percentage Obesity Among Not A Citizen,Percent_Obesity_In_Count_Person_NotACitizen
+Population: Percentage Obesity Among Rural,Percent_Obesity_In_Count_Person_Rural
+Population: Percentage Obesity Among Semi Urban,Percent_Obesity_In_Count_Person_SemiUrban
+Population: Percentage Obesity Among Severe Activity Limitation,Percent_Obesity_In_Count_Person_SevereActivityLimitation
+Population: Percentage Obesity Among Tertiary Education,Percent_Obesity_In_Count_Person_TertiaryEducation
+Population: Percentage Obesity Among Tertiary Education Stage One Or Tertiary Education Stage Two,Percent_Obesity_In_Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo
+Population: Percentage Obesity Among Upper Secondary Education Or Post Secondary Non Tertiary Education,Percent_Obesity_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Population: Percentage Obesity Among Urban,Percent_Obesity_In_Count_Person_Urban
+Population: Percentage Obesity Among Within EU28 And Not A Citizen,Percent_Obesity_In_Count_Person_WithinEU28AndNotACitizen
+"Percentage Occasional, Tobacco Smoking Among Population",Percent_Occasional_TobaccoSmoking_TobaccoProducts_In_Count_Person
+"Percentage Once a Day, Consumption Of Fruits Among Population",Percent_OnceADay_ConsumptionOfFruits_In_Count_Person
+"Percentage Once a Day, Consumption Of Vegetables Among Population",Percent_OnceADay_ConsumptionOfVegetables_In_Count_Person
+Population: Percentage Overweight,Percent_Overweight_In_Count_Person
+Population: Percentage Overweight Among Citizen,Percent_Overweight_In_Count_Person_Citizen
+Population: Percentage Overweight Among Citizen Outside EU28,Percent_Overweight_In_Count_Person_CitizenOutsideEU28
+Population: Percentage Overweight Among Female,Percent_Overweight_In_Count_Person_Female
+Population: Percentage Overweight Among Foreign Born,Percent_Overweight_In_Count_Person_ForeignBorn
+Population: Percentage Overweight Among Foreign Born Outside EU28,Percent_Overweight_In_Count_Person_ForeignBornOutsideEU28
+Population: Percentage Overweight Among Foreign Born Within EU28,Percent_Overweight_In_Count_Person_ForeignBornWithinEU28
+Population: Percentage Overweight Among Income Of 0 To 20 Percentile,Percent_Overweight_In_Count_Person_IncomeOf0To20Percentile
+Population: Percentage Overweight Among Income Of 20 To 40 Percentile,Percent_Overweight_In_Count_Person_IncomeOf20To40Percentile
+Population: Percentage Overweight Among Income Of 40 To 60 Percentile,Percent_Overweight_In_Count_Person_IncomeOf40To60Percentile
+Population: Percentage Overweight Among Income Of 60 To 80 Percentile,Percent_Overweight_In_Count_Person_IncomeOf60To80Percentile
+Population: Percentage Overweight Among Income Of 80 To 100 Percentile,Percent_Overweight_In_Count_Person_IncomeOf80To100Percentile
+Population: Percentage Overweight Among Less Than Primary Education Or Primary Education Or Lower Secondary Education,Percent_Overweight_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Population: Percentage Overweight Among Limited Activity Limitation,Percent_Overweight_In_Count_Person_LimitedActivityLimitation
+Population: Percentage Overweight Among Male,Percent_Overweight_In_Count_Person_Male
+Population: Percentage Overweight Among Moderate Activity Limitation,Percent_Overweight_In_Count_Person_ModerateActivityLimitation
+Population: Percentage Overweight Among Native,Percent_Overweight_In_Count_Person_Native
+Population: Percentage Overweight Among No Activity Limitation,Percent_Overweight_In_Count_Person_NoActivityLimitation
+Population: Percentage Overweight Among Not A Citizen,Percent_Overweight_In_Count_Person_NotACitizen
+Population: Percentage Overweight Among Rural,Percent_Overweight_In_Count_Person_Rural
+Population: Percentage Overweight Among Semi Urban,Percent_Overweight_In_Count_Person_SemiUrban
+Population: Percentage Overweight Among Severe Activity Limitation,Percent_Overweight_In_Count_Person_SevereActivityLimitation
+Population: Percentage Overweight Among Tertiary Education,Percent_Overweight_In_Count_Person_TertiaryEducation
+Population: Percentage Overweight Among Tertiary Education Stage One Or Tertiary Education Stage Two,Percent_Overweight_In_Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo
+Population: Percentage Overweight Among Upper Secondary Education Or Post Secondary Non Tertiary Education,Percent_Overweight_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Population: Percentage Overweight Among Urban,Percent_Overweight_In_Count_Person_Urban
+Population: Percentage Overweight Among Within EU28 And Not A Citizen,Percent_Overweight_In_Count_Person_WithinEU28AndNotACitizen
+Percentage Physical Activity Among Population,Percent_PhysicalActivity_In_Count_Person
+Percentage Physical Activity Among Female Population,Percent_PhysicalActivity_In_Count_Person_Female
+Percentage Physical Activity Among Male Population,Percent_PhysicalActivity_In_Count_Person_Male
+Population: Percentage Pre-obese,Percent_PreObese_In_Count_Person
+Population: Percentage Pre Obese Among Citizen,Percent_PreObese_In_Count_Person_Citizen
+Population: Percentage Pre Obese Among Citizen Outside EU28,Percent_PreObese_In_Count_Person_CitizenOutsideEU28
+Population: Percentage Pre Obese Among Female,Percent_PreObese_In_Count_Person_Female
+Population: Percentage Pre Obese Among Foreign Born,Percent_PreObese_In_Count_Person_ForeignBorn
+Population: Percentage Pre Obese Among Foreign Born Outside EU28,Percent_PreObese_In_Count_Person_ForeignBornOutsideEU28
+Population: Percentage Pre Obese Among Foreign Born Within EU28,Percent_PreObese_In_Count_Person_ForeignBornWithinEU28
+Population: Percentage Pre Obese Among Income Of 0 To 20 Percentile,Percent_PreObese_In_Count_Person_IncomeOf0To20Percentile
+Population: Percentage Pre Obese Among Income Of 20 To 40 Percentile,Percent_PreObese_In_Count_Person_IncomeOf20To40Percentile
+Population: Percentage Pre Obese Among Income Of 40 To 60 Percentile,Percent_PreObese_In_Count_Person_IncomeOf40To60Percentile
+Population: Percentage Pre Obese Among Income Of 60 To 80 Percentile,Percent_PreObese_In_Count_Person_IncomeOf60To80Percentile
+Population: Percentage Pre Obese Among Income Of 80 To 100 Percentile,Percent_PreObese_In_Count_Person_IncomeOf80To100Percentile
+Population: Percentage Pre Obese Among Less Than Primary Education Or Primary Education Or Lower Secondary Education,Percent_PreObese_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Population: Percentage Pre Obese Among Limited Activity Limitation,Percent_PreObese_In_Count_Person_LimitedActivityLimitation
+Population: Percentage Pre Obese Among Male,Percent_PreObese_In_Count_Person_Male
+Population: Percentage Pre Obese Among Moderate Activity Limitation,Percent_PreObese_In_Count_Person_ModerateActivityLimitation
+Population: Percentage Pre Obese Among Native,Percent_PreObese_In_Count_Person_Native
+Population: Percentage Pre Obese Among No Activity Limitation,Percent_PreObese_In_Count_Person_NoActivityLimitation
+Population: Percentage Pre Obese Among Not A Citizen,Percent_PreObese_In_Count_Person_NotACitizen
+Population: Percentage Pre Obese Among Rural,Percent_PreObese_In_Count_Person_Rural
+Population: Percentage Pre Obese Among Semi Urban,Percent_PreObese_In_Count_Person_SemiUrban
+Population: Percentage Pre Obese Among Severe Activity Limitation,Percent_PreObese_In_Count_Person_SevereActivityLimitation
+Population: Percentage Pre Obese Among Tertiary Education,Percent_PreObese_In_Count_Person_TertiaryEducation
+Population: Percentage Pre Obese Among Upper Secondary Education Or Post Secondary Non Tertiary Education,Percent_PreObese_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Population: Percentage Pre Obese Among Urban,Percent_PreObese_In_Count_Person_Urban
+Population: Percentage Pre Obese Among Within EU28 And Not A Citizen,Percent_PreObese_In_Count_Person_WithinEU28AndNotACitizen
+"Percentage Rarely Or Never, Exposure To Tobacco Smoke Among Population",Percent_RarelyOrNever_ExposureToTobaccoSmoke_In_Count_Person
+Percentage Receiving Intermediate Social Support Among Female Population,Percent_ReceivingIntermediateSocialSupport_In_Count_Person_Female
+Percentage Receiving Intermediate Social Support Among Less Than Primary Education Or Primary Education Or Lower Secondary Education Population,Percent_ReceivingIntermediateSocialSupport_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Percentage Receiving Intermediate Social Support Among Male Population,Percent_ReceivingIntermediateSocialSupport_In_Count_Person_Male
+Percentage Receiving Intermediate Social Support Among Tertiary Education Population,Percent_ReceivingIntermediateSocialSupport_In_Count_Person_TertiaryEducation
+Percentage Receiving Intermediate Social Support Among Upper Secondary Education Or Post Secondary Non Tertiary Education Population,Percent_ReceivingIntermediateSocialSupport_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Percentage Receiving Poor Social Support Among Female Population,Percent_ReceivingPoorSocialSupport_In_Count_Person_Female
+Percentage Receiving Poor Social Support Among Less Than Primary Education Or Primary Education Or Lower Secondary Education Population,Percent_ReceivingPoorSocialSupport_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Percentage Receiving Poor Social Support Among Male Population,Percent_ReceivingPoorSocialSupport_In_Count_Person_Male
+Percentage Receiving Poor Social Support Among Tertiary Education Population,Percent_ReceivingPoorSocialSupport_In_Count_Person_TertiaryEducation
+Percentage Receiving Poor Social Support Among Upper Secondary Education Or Post Secondary Non Tertiary Education Population,Percent_ReceivingPoorSocialSupport_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Percentage Receiving Strong Social Support Among Female Population,Percent_ReceivingStrongSocialSupport_In_Count_Person_Female
+Percentage Receiving Strong Social Support Among Less Than Primary Education Or Primary Education Or Lower Secondary Education Population,Percent_ReceivingStrongSocialSupport_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Percentage Receiving Strong Social Support Among Male Population,Percent_ReceivingStrongSocialSupport_In_Count_Person_Male
+Percentage Receiving Strong Social Support Among Tertiary Education Population,Percent_ReceivingStrongSocialSupport_In_Count_Person_TertiaryEducation
+Percentage Receiving Strong Social Support Among Upper Secondary Education Or Post Secondary Non Tertiary Education Population,Percent_ReceivingStrongSocialSupport_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+"Percentage Tertiary Education Stage One Or Tertiary Education Stage Two, Physical Activity Among Population",Percent_TertiaryEducationStageOneOrTertiaryEducationStageTwo_PhysicalActivity_In_Count_Person
+"Percentage Tobacco Smoking, E Cigarettes Among Population",Percent_TobaccoSmoking_NeverUsed_ECigarettes_In_Count_Person
+Percentage Tobacco Smoking Among Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person
+Percentage Tobacco Smoking Among Citizen Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_Citizen
+Percentage Tobacco Smoking Among Citizen Outside EU28 Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_CitizenOutsideEU28
+Percentage Tobacco Smoking Among Female Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_Female
+Percentage Tobacco Smoking Among Foreign Born Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_ForeignBorn
+Percentage Tobacco Smoking Among Foreign Born Outside EU28 Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_ForeignBornOutsideEU28
+Percentage Tobacco Smoking Among Foreign Born Within EU28 Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_ForeignBornWithinEU28
+Percentage Tobacco Smoking Among Income Of 0 To 20 Percentile Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_IncomeOf0To20Percentile
+Percentage Tobacco Smoking Among Income Of 20 To 40 Percentile Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_IncomeOf20To40Percentile
+Percentage Tobacco Smoking Among Income Of 40 To 60 Percentile Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_IncomeOf40To60Percentile
+Percentage Tobacco Smoking Among Income Of 60 To 80 Percentile Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_IncomeOf60To80Percentile
+Percentage Tobacco Smoking Among Income Of 80 To 100 Percentile Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_IncomeOf80To100Percentile
+Percentage Tobacco Smoking Among Less Than Primary Education Or Primary Education Or Lower Secondary Education Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Percentage Tobacco Smoking Among Male Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_Male
+Percentage Tobacco Smoking Among Native Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_Native
+Percentage Tobacco Smoking Among Not A Citizen Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_NotACitizen
+Percentage Tobacco Smoking Among Rural Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_Rural
+Percentage Tobacco Smoking Among Semi Urban Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_SemiUrban
+Percentage Tobacco Smoking Among Tertiary Education Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_TertiaryEducation
+Percentage Tobacco Smoking Among Upper Secondary Education Or Post Secondary Non Tertiary Education Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Percentage Tobacco Smoking Among Urban Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_Urban
+Percentage Tobacco Smoking Among Within EU28 And Not A Citizen Population,Percent_TobaccoSmoking_TobaccoProducts_In_Count_Person_WithinEU28AndNotACitizen
+Population: Percentage Underweight,Percent_Underweight_In_Count_Person
+Population: Percentage Underweight Among Citizen,Percent_Underweight_In_Count_Person_Citizen
+Population: Percentage Underweight Among Citizen Outside EU28,Percent_Underweight_In_Count_Person_CitizenOutsideEU28
+Population: Percentage Underweight Among Female,Percent_Underweight_In_Count_Person_Female
+Population: Percentage Underweight Among Foreign Born,Percent_Underweight_In_Count_Person_ForeignBorn
+Population: Percentage Underweight Among Foreign Born Outside EU28,Percent_Underweight_In_Count_Person_ForeignBornOutsideEU28
+Population: Percentage Underweight Among Foreign Born Within EU28,Percent_Underweight_In_Count_Person_ForeignBornWithinEU28
+Population: Percentage Underweight Among Income Of 0 To 20 Percentile,Percent_Underweight_In_Count_Person_IncomeOf0To20Percentile
+Population: Percentage Underweight Among Income Of 20 To 40 Percentile,Percent_Underweight_In_Count_Person_IncomeOf20To40Percentile
+Population: Percentage Underweight Among Income Of 40 To 60 Percentile,Percent_Underweight_In_Count_Person_IncomeOf40To60Percentile
+Population: Percentage Underweight Among Income Of 60 To 80 Percentile,Percent_Underweight_In_Count_Person_IncomeOf60To80Percentile
+Population: Percentage Underweight Among Income Of 80 To 100 Percentile,Percent_Underweight_In_Count_Person_IncomeOf80To100Percentile
+Population: Percentage Underweight Among Less Than Primary Education Or Primary Education Or Lower Secondary Education,Percent_Underweight_In_Count_Person_LessThanPrimaryEducationOrPrimaryEducationOrLowerSecondaryEducation
+Population: Percentage Underweight Among Limited Activity Limitation,Percent_Underweight_In_Count_Person_LimitedActivityLimitation
+Population: Percentage Underweight Among Male,Percent_Underweight_In_Count_Person_Male
+Population: Percentage Underweight Among Moderate Activity Limitation,Percent_Underweight_In_Count_Person_ModerateActivityLimitation
+Population: Percentage Underweight Among Native,Percent_Underweight_In_Count_Person_Native
+Population: Percentage Underweight Among No Activity Limitation,Percent_Underweight_In_Count_Person_NoActivityLimitation
+Population: Percentage Underweight Among Not A Citizen,Percent_Underweight_In_Count_Person_NotACitizen
+Population: Percentage Underweight Among Rural,Percent_Underweight_In_Count_Person_Rural
+Population: Percentage Underweight Among Semi Urban,Percent_Underweight_In_Count_Person_SemiUrban
+Population: Percentage Underweight Among Severe Activity Limitation,Percent_Underweight_In_Count_Person_SevereActivityLimitation
+Population: Percentage Underweight Among Tertiary Education,Percent_Underweight_In_Count_Person_TertiaryEducation
+Population: Percentage Underweight Among Tertiary Education Stage One Or Tertiary Education Stage Two,Percent_Underweight_In_Count_Person_TertiaryEducationStageOneOrTertiaryEducationStageTwo
+Population: Percentage Underweight Among Upper Secondary Education Or Post Secondary Non Tertiary Education,Percent_Underweight_In_Count_Person_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation
+Population: Percentage Underweight Among Urban,Percent_Underweight_In_Count_Person_Urban
+Population: Percentage Underweight Among Within EU28 And Not A Citizen,Percent_Underweight_In_Count_Person_WithinEU28AndNotACitizen
+"Percentage Upper Secondary Education Or Post Secondary Non Tertiary Education, Physical Activity Among Population",Percent_UpperSecondaryEducationOrPostSecondaryNonTertiaryEducation_PhysicalActivity_In_Count_Person
+"Percentage Walking, Non Work Related Physical Activity Among Population",Percent_Walking_NonWorkRelatedPhysicalActivity_In_Count_Person
+"Percentage Work Related Physical Activity, Heavy Activity Among Population",Percent_WorkRelatedPhysicalActivity_HeavyActivity_In_Count_Person
+"Percentage Work Related Physical Activity, Moderate Activity Or Heavy Activity Among Population",Percent_WorkRelatedPhysicalActivity_ModerateActivityOrHeavyActivity_In_Count_Person
+"Percentage Work Related Physical Activity, Moderate Activity Among Population",Percent_WorkRelatedPhysicalActivity_ModerateActivity_In_Count_Person
+"Percentage Work Related Physical Activity, No Activity Or Light Activity Among Population",Percent_WorkRelatedPhysicalActivity_NoActivityOrLightActivity_In_Count_Person
+Quantity Sold of Farm Inventory: Cattle And Calves,QuantitySold_FarmInventory_CattleAndCalves
+Quantity Sold of Farm Inventory: Hogs And Pigs,QuantitySold_FarmInventory_HogsAndPigs
+Unemployment Rate,UnemploymentRate_Person
+Unemployment Rate: Female,UnemploymentRate_Person_Female
+Unemployment Rate: Male,UnemploymentRate_Person_Male
+"Unemployment Rate: Female, Rural",UnemploymentRate_Person_Rural_Female
+"Unemployment Rate: Male, Rural",UnemploymentRate_Person_Rural_Male
+"Unemployment Rate: Female, Urban",UnemploymentRate_Person_Urban_Female
+"Unemployment Rate: Male, Urban",UnemploymentRate_Person_Urban_Male
